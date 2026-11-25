@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <LangVersion>9.0</LangVersion>
+    <AssemblyName>RTLC.Poco.RussianTranslate</AssemblyName>
+    <GameDir Condition="'$(GameDir)' == ''">E:\Programms\Steam\steamapps\common\Poco</GameDir>
+    <Managed>$(GameDir)\Poco_Data\Managed</Managed>
+    <Loader>$(GameDir)\BepInEx\core</Loader>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="$(Loader)\BepInEx.dll;$(Loader)\0Harmony.dll" Private="false" />
+    <Reference Include="$(Managed)\Assembly-CSharp.dll;$(Managed)\Unity.TextMeshPro.dll;$(Managed)\UnityEngine.dll;$(Managed)\UnityEngine.CoreModule.dll;$(Managed)\UnityEngine.TextRenderingModule.dll;$(Managed)\UnityEngine.UI.dll;$(Managed)\UnityEngine.UIModule.dll;$(Managed)\UnityEngine.IMGUIModule.dll;$(Managed)\UnityEngine.AssetBundleModule.dll;$(Managed)\UnityEngine.ImageConversionModule.dll;$(Managed)\UnityEngine.TextCoreFontEngineModule.dll" Private="false" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3002 @@
+{
+  "dialogue": [
+    {
+      "en": "Hello there! This is test <w>dialogue entry number 1</w>!",
+      "ru": "Привет! Это тестовая <w>реплика номер один</w>!"
+    },
+    {
+      "en": "And this would be number 2.",
+      "ru": "А это номер два."
+    },
+    {
+      "en": "And finally dialogue entry 3. Now let's try a dialogue option... ",
+      "ru": "И наконец реплика номер три. Теперь попробуем выбрать ответ..."
+    },
+    {
+      "en": "Say something nice.",
+      "ru": "Сказать что-нибудь приятное."
+    },
+    {
+      "en": "Say something weird.",
+      "ru": "Сказать что-нибудь странное."
+    },
+    {
+      "en": "Say something mean.",
+      "ru": "Сказать что-нибудь обидное."
+    },
+    {
+      "en": "Thank you, you're too kind.",
+      "ru": "Спасибо, это очень мило с твоей стороны."
+    },
+    {
+      "en": "Oh, uhhhh... Okay?",
+      "ru": "Ой, э-э-э... Ну ладно?"
+    },
+    {
+      "en": "I'm not really sure what you mean.",
+      "ru": "Я не совсем понимаю, о чём ты."
+    },
+    {
+      "en": "But sure, yeah. You do that.",
+      "ru": "Но... ладно, пожалуйста. Делай как знаешь."
+    },
+    {
+      "en": "What?!",
+      "ru": "Что?!"
+    },
+    {
+      "en": "How dare you! I won't let you say that about my mother!",
+      "ru": "Как ты смеешь! Не позволю так говорить о моей матери!"
+    },
+    {
+      "en": "Don't ever speak to me again!",
+      "ru": "И больше со мной не разговаривай!"
+    },
+    {
+      "en": "Oh you’re… new.",
+      "ru": "Ой... Ты здесь впервые?"
+    },
+    {
+      "en": "...",
+      "ru": "..."
+    },
+    {
+      "en": "I’m Nari",
+      "ru": "Я Нари."
+    },
+    {
+      "en": "Bell Poco Rocket Circus Fly Home",
+      "ru": "Колокольчик. Поко. Ракета. Цирк. Лететь домой."
+    },
+    {
+      "en": "Poco? That’s a nice name.",
+      "ru": "Поко? Хорошее имя."
+    },
+    {
+      "en": "I don’t know much about that circus, but uh you can look around here if you want. Maybe you’ll find something helpful?",
+      "ru": "Я про этот цирк мало что знаю, но... можешь тут осмотреться. Вдруг найдёшь что-нибудь полезное?"
+    },
+    {
+      "en": "<w>sniiiiiiiiiiiiiiiifff</w> Sorry, did you say something?",
+      "ru": "<w>Шмы-ы-ыг</w> Прости, ты о чём-то спрашиваешь?"
+    },
+    {
+      "en": "Ask about the pigments",
+      "ru": "Спросить о пигментах"
+    },
+    {
+      "en": "Ask about the plants",
+      "ru": "Спросить о растениях"
+    },
+    {
+      "en": "Ask about Nari",
+      "ru": "Спросить о Нари"
+    },
+    {
+      "en": "Nevermind",
+      "ru": "Ничего"
+    },
+    {
+      "en": "Oh, okay. Talk to you later.",
+      "ru": "А, ладно. Тогда до встречи."
+    },
+    {
+      "en": "Does Ojet need paint again? I think he gets more of it on himself than his canvas...",
+      "ru": "Оджету опять краски нужны? По-моему, он сам в краске больше, чем его холст..."
+    },
+    {
+      "en": "Getting the pigments used to be the easy part. You’d just grind up some bright plants and you’re done. ",
+      "ru": "Раньше с пигментами было проще всего. Растолчёшь яркие растения — и готово."
+    },
+    {
+      "en": "My garden hasn’t been growing anything lately though, so I guess you’ll have to find the plants somewhere else.",
+      "ru": "Только в моём саду в последнее время ничего не растёт. Придётся поискать растения где-то ещё."
+    },
+    {
+      "en": "Sorry.",
+      "ru": "Прости."
+    },
+    {
+      "en": "Oh, do you like plants? I grew all of these by myself. It's hard but I like it.",
+      "ru": "О, тебе нравятся растения? Я сама всё это вырастила. Хлопот много, но мне нравится."
+    },
+    {
+      "en": "I used to grow bigger stuff in my garden but... the soil isn’t good anymore. And we never get enough sunlight. And the water stopped working so...",
+      "ru": "Раньше в моём саду и покрупнее кое-что росло, только... почва испортилась. И солнца нам вечно не хватает. А тут ещё вода перестала идти..."
+    },
+    {
+      "en": "I don’t really go over there these days.",
+      "ru": "Я теперь туда почти не хожу."
+    },
+    {
+      "en": "Ask about soil",
+      "ru": "Спросить о почве"
+    },
+    {
+      "en": "Ask about sunlight",
+      "ru": "Спросить о солнечном свете"
+    },
+    {
+      "en": "Ask about water",
+      "ru": "Спросить о воде"
+    },
+    {
+      "en": "nevermind",
+      "ru": "Ничего"
+    },
+    {
+      "en": "Did you want to talk about something else?",
+      "ru": "Хочешь поговорить о чём-то ещё?"
+    },
+    {
+      "en": "There’s just no nutrients in the ground anymore. I know I should get some fertilizer but the smell...",
+      "ru": "Почва совсем истощилась. Надо бы её удобрить, только вот запах..."
+    },
+    {
+      "en": "All that manure... <w>Eugh</w>",
+      "ru": "Этот навоз... <w>Фу-у</w>"
+    },
+    {
+      "en": "Jaz used to have this thing on the cliff- It uh, sent the sunlight down or something. I don’t really understand it.",
+      "ru": "У Джаз на утёсе была такая штука... Она, э-э, направляла солнечный свет вниз или вроде того. Я толком не понимаю, как она работает."
+    },
+    {
+      "en": "It broke, I think. No more sun.",
+      "ru": "Кажется, она сломалась. Вот и нет солнца."
+    },
+    {
+      "en": "Something’s wrong with the sprinklers I guess. No water comes out.",
+      "ru": "Что-то случилось с разбрызгивателями, наверное. Вода не идёт."
+    },
+    {
+      "en": "I tried talking to Jaz about it but I think they’re busy right now. And I can’t make sense of those pipes by myself.",
+      "ru": "Я пыталась поговорить об этом с Джаз, но у Джаз, похоже, и без меня дел хватает. А сама я в этих трубах не разберусь."
+    },
+    {
+      "en": "Pretty hard to grow plants with no water though.",
+      "ru": "Без воды, правда, многого не вырастишь."
+    },
+    {
+      "en": "...Me? What about me?",
+      "ru": "...Обо мне? А что обо мне?"
+    },
+    {
+      "en": "Ask about siblings",
+      "ru": "Спросить о братьях и сёстрах"
+    },
+    {
+      "en": "Ask about her",
+      "ru": "Спросить о ней"
+    },
+    {
+      "en": "Favorite Smell?",
+      "ru": "Любимый запах?"
+    },
+    {
+      "en": "...Let's talk about something else.",
+      "ru": "...Давай о чём-нибудь другом."
+    },
+    {
+      "en": "My siblings are all over. You must have met some of them. We keep in touch. Mostly.",
+      "ru": "Мои братья и сёстры живут кто где. С кем-то из них ты наверняка уже знаком. Мы общаемся. Ну, почти со всеми."
+    },
+    {
+      "en": "I used to talk with Ojet and Jaz a lot but they've both been so busy lately. Ojet even locked the washer door to keep out distractions. I guess painting a masterpiece takes a while.",
+      "ru": "Мы с Оджетом и Джаз часто болтали, а теперь им некогда. Оджет даже запер стиралку, чтобы не мешали. Видимо, шедевр быстро не напишешь."
+    },
+    {
+      "en": "It's fine. We all have our stuff to do.",
+      "ru": "Ничего страшного. У всех свои дела."
+    },
+    {
+      "en": "Uh... Well, I garden, but you knew that. I have my siblings. You’ve met them.",
+      "ru": "Эм... Ну, я ухаживаю за садом, но ты и так знаешь. А ещё у меня есть братья и сёстры. Ты с ними уже знаком."
+    },
+    {
+      "en": "I’m not really that interesting.",
+      "ru": "Во мне вообще мало чего интересного."
+    },
+    {
+      "en": "BIG NOSE",
+      "ru": "БОЛЬШОЙ НОС"
+    },
+    {
+      "en": "No- Don’t- Uh... You don’t have to be nice. I know I’m boring. Even our creator thought that.",
+      "ru": "Нет, не... Эм... Не надо меня утешать. Я знаю, что со мной скучно. Даже наш создатель так думал."
+    },
+    {
+      "en": "Sorry, I don’t get visitors very often these days. Just pretend I didn’t say that.",
+      "ru": "Прости, ко мне в последнее время редко кто заходит. Сделай вид, что я ничего не говорила."
+    },
+    {
+      "en": "My favorite smell? That’s a hard one. There's so many nice smells out there. My flowers, the garden, even the ocean air...",
+      "ru": "Любимый запах? Сложный вопрос. Столько всего приятно пахнет. Мои цветы, сад, даже морской воздух..."
+    },
+    {
+      "en": "But I think my favorite is sulfur. Something about that rotten egg smell... <w>sniiiiiiiiiiiif</w>",
+      "ru": "Но больше всего мне, кажется, нравится сера. Есть что-то в этом запахе тухлых яиц... <w>Шмы-ы-ыг</w>"
+    },
+    {
+      "en": "...Don’t tell anyone I said that",
+      "ru": "...Только никому об этом не говори."
+    },
+    {
+      "en": "That blossom- You grew that? Really? That’s amazing!",
+      "ru": "Этот цветок... Это ты его вырастил? Правда? Вот это да!"
+    },
+    {
+      "en": "I wasn’t sure if anything would grow there again...",
+      "ru": "Я уж думала, там больше ничего не вырастет..."
+    },
+    {
+      "en": "Keep the flower. You’ve earned it. I need to go see the garden myself. Start growing things on my own again.",
+      "ru": "Оставь цветок себе. Он по праву твой. А я сама схожу в сад. Пора снова взяться за растения."
+    },
+    {
+      "en": "There’s so much work to be done- I haven’t even started propagating yet-",
+      "ru": "Столько дел... Я ведь ещё даже саженцы не заготовила..."
+    },
+    {
+      "en": "Oh -Thank you- Thank you!!",
+      "ru": "Ой... Спасибо! Спасибо тебе!"
+    },
+    {
+      "en": "You can go help Ojet and the others. They definitely need it more than me.",
+      "ru": "Лучше помоги Оджету и остальным. Им помощь нужнее."
+    },
+    {
+      "en": "I’m just happy things are going right.",
+      "ru": "Я просто рада, что всё налаживается."
+    },
+    {
+      "en": "That magenta blossom was pretty, wasn’t it?",
+      "ru": "Красивый вырос пурпурный цветок, правда?"
+    },
+    {
+      "en": "It's part of a species that grows really rapidly. They take over other plants too. If I didn’t keep my eyes on them they’d probably eat me.",
+      "ru": "Этот вид разрастается очень быстро и всё вокруг заполоняет. Стоит за ними не уследить, и они, пожалуй, даже меня съедят."
+    },
+    {
+      "en": "Pretty cool, right?",
+      "ru": "Здорово, правда?"
+    },
+    {
+      "en": "Oh hey! Me and Ojet have been catching up over here.",
+      "ru": "О, привет! Мы тут с Оджетом наконец наговорились."
+    },
+    {
+      "en": "Seems like he got really into his last painting... I can respect the passion but he needs to apologize for locking me out!",
+      "ru": "Похоже, он с головой ушёл в свою последнюю картину... Я понимаю, что он увлёкся, но пусть извинится за то, что заперся от меня!"
+    },
+    {
+      "en": "Look at everyone! I haven't seen all of us together since...",
+      "ru": "Смотри, все собрались! Мы же все вместе не виделись с..."
+    },
+    {
+      "en": "Well it's been a while, definitely!",
+      "ru": "Ну, в общем, давненько!"
+    },
+    {
+      "en": "Good luck up there! I'll send flowers.",
+      "ru": "Удачи там, наверху! Я пришлю цветы."
+    },
+    {
+      "en": "Pstt! Hey you! You with the bell. Come closer",
+      "ru": "Пс-с! Эй, ты! С колокольчиком! Подойди поближе."
+    },
+    {
+      "en": "<w>Hmmmmmmmmmm</w> Yeees now that I get a closer look at you. You look like a- Actually, what are you- Certainly not one of those miserable homunculi… ",
+      "ru": "<w>Хм-м-м-м-м</w> Да-а, вот теперь вижу получше. Ты похож на... Погоди, а кто ты вообще такой? Уж точно не из этих жалких гомункулов..."
+    },
+    {
+      "en": "No matter!  You look like a creature of discerning interest. Perhaps I could interest you in a little deal.",
+      "ru": "Да неважно! Видно, что ты умеешь отличать стоящее дело от пустого. Как насчёт небольшой сделки?"
+    },
+    {
+      "en": "You see, I have a problem. This HORRIBLE FISH has been vexing my shop. It refuses to be caught. It refuses to give in. Even now it's below us. Laughing at me. TAUNTING ME.",
+      "ru": "Видишь ли, у меня беда. Эта УЖАСНАЯ РЫБА не даёт покоя всей лавке. В руки не даётся. Сдаваться не собирается. Она и сейчас прямо под нами. Смеётся надо мной. ИЗДЕВАЕТСЯ!"
+    },
+    {
+      "en": "So I need you to go and catch the vile thing. I can lend you the fishing pole, so all you’ll need is a bit of bait.",
+      "ru": "Вот и поймай для меня эту мерзость. Удочку я одолжу, с тебя только наживка."
+    },
+    {
+      "en": "You get the joy of snuffing out another life and I get to sleep at night knowing the beast is dead. Sound like a deal?",
+      "ru": "Тебе — радость от того, что прикончишь живую тварь. Мне — спокойный сон, потому что тварь сдохла. По рукам?"
+    },
+    {
+      "en": "Good, good. ",
+      "ru": "Хорошо, хорошо."
+    },
+    {
+      "en": "Soon they’ll see. They’ll all see- Huh-? You got the bait yet?",
+      "ru": "Скоро они увидят. Все увидят... А? Есть у тебя наживка?"
+    },
+    {
+      "en": "No?! Stop wasting my time then!",
+      "ru": "НЕТ?! Тогда не трать моё время!"
+    },
+    {
+      "en": "Ask about bait",
+      "ru": "Спросить о наживке"
+    },
+    {
+      "en": "Ask about the fish",
+      "ru": "Спросить о рыбе"
+    },
+    {
+      "en": "And don't come back until you've got that bait!",
+      "ru": "И без наживки не возвращайся!"
+    },
+    {
+      "en": "This here fish is the bottomfeeder of bottomfeeders. A loathsome creature that knows no mercy. A mere worm wouldn’t satisfy its vile cravings. ",
+      "ru": "Эта рыба — самая мерзкая тварь на всём дне. Пощады от неё не жди. Обычным червяком такую прожору не соблазнишь."
+    },
+    {
+      "en": "It feeds off the hopes and dreams of those poor sailors who seek their glory in its capture. You’ll need to be crafty if you hope to make it out of the encounter with your life.",
+      "ru": "Она пожирает надежды и мечты бедолаг, которые хотят прославиться её поимкой. Тут придётся схитрить, если тебе жизнь дорога."
+    },
+    {
+      "en": "Up north has all sorts of grub. If you have the stomach for it.",
+      "ru": "На севере всякой наживки полно. Если, конечно, тебя с неё не стошнит."
+    },
+    {
+      "en": "I’ve been tailing this fish for longer than you’ve been alive. I know all its tricks.",
+      "ru": "Я за ней охочусь дольше, чем ты на свете живёшь. Все её уловки знаю."
+    },
+    {
+      "en": "You’d need the proper bait to lure it out of its hiding space. Once it's had a good meal it can go under for years. Best make the most of your opportunity.",
+      "ru": "Из укрытия её выманит только подходящая наживка. Наестся — и на годы уйдёт на дно. Так что смотри не упусти случай."
+    },
+    {
+      "en": "I’ve heard its flesh is one of the tastiest things one can enjoy in their mortal lives. But that’s of no importance to me. You can do whatever you wish with it after it's caught.",
+      "ru": "Говорят, её мясо вкуснее всего, что смертному доводится пробовать. А мне всё равно. Поймаешь — делай с ней что хочешь."
+    },
+    {
+      "en": "Why it looks like you have some succulent bait right there. Perfect for luring in the beast. ",
+      "ru": "О, да у тебя, гляжу, сочная наживка! В самый раз, чтобы выманить тварь."
+    },
+    {
+      "en": "Are you ready?",
+      "ru": "Ну что, начинаем?"
+    },
+    {
+      "en": "Go fish",
+      "ru": "Закинуть удочку"
+    },
+    {
+      "en": "No thanks",
+      "ru": "Нет, спасибо"
+    },
+    {
+      "en": "YES! GO.",
+      "ru": "ДА! ВПЕРЁД."
+    },
+    {
+      "en": "You ready to face the beast?",
+      "ru": "Ну как, сразишься с чудовищем?"
+    },
+    {
+      "en": "Bah! Come back when you can handle it.",
+      "ru": "Тьфу! Возвращайся, когда духу хватит."
+    },
+    {
+      "en": "Yes, YES HAHAHAHA",
+      "ru": "Да, ДА, ХА-ХА-ХА!"
+    },
+    {
+      "en": "Enough gloating. Get this thing out of my sight immediately",
+      "ru": "Хватит торжествовать! Убери эту штуку с глаз моих. Живо!"
+    },
+    {
+      "en": "I’ve been to the worlds above. You ain’t missing much.",
+      "ru": "Я бывал в Верхних мирах. Поверь, там мало интересного."
+    },
+    {
+      "en": "Fish fish fish fish fish FISH fish fish fish fish fish fish fish fish fish fish fish fish fish fish fish fish fish fish fish fish fish fish fish fish",
+      "ru": "Рыба рыба рыба рыба рыба РЫБА рыба рыба рыба рыба рыба рыба рыба рыба рыба рыба рыба рыба рыба рыба рыба рыба рыба рыба рыба рыба рыба рыба рыба"
+    },
+    {
+      "en": "How’s it feel to make your first kill?",
+      "ru": "Ну и каково это — в первый раз кого-то прикончить?"
+    },
+    {
+      "en": "That was your first kill... wasn’t it?",
+      "ru": "В первый раз ведь... да?"
+    },
+    {
+      "en": "Wuzzat? What’ll I do now that the beast is dead?",
+      "ru": "Ась? Что я теперь буду делать, раз тварь сдохла?"
+    },
+    {
+      "en": "Well that’s simple I’ll-",
+      "ru": "Да тут всё просто. Я..."
+    },
+    {
+      "en": "I see you there, behind the screen. Do you think you’re funny, pestering an old sailor like this?",
+      "ru": "Вижу тебя там, по ту сторону экрана. Думаешь, смешно приставать к старому моряку?"
+    },
+    {
+      "en": "GET OUTTA HERE!",
+      "ru": "ПОШЁЛ ВОН!"
+    },
+    {
+      "en": "You know, I used to be famous once. You’re standing in the presence of a legend and you don’t even know it.",
+      "ru": "Знаешь, когда-то я был знаменит. Перед тобой живая легенда, а ты и не догадываешься."
+    },
+    {
+      "en": "Fine, don’t believe me. See if I care.",
+      "ru": "Ну и не верь. Мне-то что."
+    },
+    {
+      "en": "That was some fine fishing right there. You sure you wanna go back to that circus? You could have a real career as a fisherman down here.",
+      "ru": "Знатная вышла рыбалка! Точно хочешь обратно в цирк? Из тебя тут мог бы выйти настоящий рыбак."
+    },
+    {
+      "en": "Just stay out of my territory.",
+      "ru": "Только на мои места не суйся."
+    },
+    {
+      "en": "Hmph! Incorrect again! Perhaps if I...",
+      "ru": "Хмф! Опять не то! А если попробовать..."
+    },
+    {
+      "en": "PAINT CURIOUS HI",
+      "ru": "КРАСКА. ИНТЕРЕСНО. ПРИВЕТ."
+    },
+    {
+      "en": "Gah-!",
+      "ru": "А-а-а!"
+    },
+    {
+      "en": "Look at what you’ve done- I’ve splashed paint all over my canvas!",
+      "ru": "Ну вот, что ты натворил! Я забрызгал краской весь холст!"
+    },
+    {
+      "en": "Oh well, it was a bad painting anyways. You've saved me the effort of destroying it myself. ",
+      "ru": "Э, да картина всё равно никуда не годилась. Теперь хоть не придётся самому её уничтожать."
+    },
+    {
+      "en": "<w>Sigh</w> Now what was it you needed?",
+      "ru": "<w>Эх...</w> Так что тебе было нужно?"
+    },
+    {
+      "en": "POCO BELL ROCKET HOME",
+      "ru": "ПОКО. КОЛОКОЛЬЧИК. РАКЕТА. ДОМОЙ."
+    },
+    {
+      "en": "You need that rocket piece? No, I simply must refuse.",
+      "ru": "Значит, тебе нужна деталь ракеты? Нет, я решительно отказываюсь."
+    },
+    {
+      "en": "You see, you stand in the presence of the great Ojet!",
+      "ru": "Ты, видишь ли, стоишь перед самим великим Оджетом!"
+    },
+    {
+      "en": "...Well, soon to be great. I just need to finish this painting- my masterpiece! Then even the worlds above will have to recognize my talents. ",
+      "ru": "...То есть я скоро стану великим. Осталось лишь дописать эту картину. Мой шедевр! Тогда даже в Верхних мирах признают мой талант."
+    },
+    {
+      "en": "And that rocket part is an essential part of my piece, to remove it would throw off the balance of the entire painting.",
+      "ru": "Эта деталь ракеты незаменима для моей работы. Стоит её убрать, и вся композиция рассыплется!"
+    },
+    {
+      "en": "I’m so close to a breakthrough but alas, I’ve wasted so much time on these ugly failures that I’ve nearly run out of paint.",
+      "ru": "Мне до прорыва рукой подать, но, увы, эти уродливые этюды отняли столько времени, что краски почти не осталось."
+    },
+    {
+      "en": "I can’t be expected to complete my masterwork under these circumstances! ",
+      "ru": "Как прикажешь завершить шедевр в таких условиях?!"
+    },
+    {
+      "en": "If you want that rocket, you’ll need to find me some more red, green, and blue paint. Now away with you! I must focus",
+      "ru": "Нужна тебе ракета — достань мне красной, зелёной и синей краски. Теперь ступай! Мне надо сосредоточиться."
+    },
+    {
+      "en": "Horrible! Disgusting! This painting vexes me still!",
+      "ru": "Ужасно! Омерзительно! Эта картина всё ещё доводит меня до исступления!"
+    },
+    {
+      "en": "...Yes? Have you brought me those paints I asked for?",
+      "ru": "...Что? У тебя есть краски, которые я просил?"
+    },
+    {
+      "en": "Ask about the paints",
+      "ru": "Спросить о красках"
+    },
+    {
+      "en": "Ask about the painting",
+      "ru": "Спросить о картине"
+    },
+    {
+      "en": "Ask about Ojet",
+      "ru": "Спросить об Оджете"
+    },
+    {
+      "en": "This is a critical time for me! Save the chit-chat for later.",
+      "ru": "У меня сейчас решающий момент! Разговоры подождут."
+    },
+    {
+      "en": "Hmmm? You don’t know how to make paint? I suppose not everyone can be an artiste",
+      "ru": "М-м-м? Не знаешь, как готовить краску? Ну да, художником ведь дано стать не каждому."
+    },
+    {
+      "en": "Look, it's really quite simple. You just need to get some pigments and then mix them with a binder. ",
+      "ru": "Слушай, всё проще простого. Добудь пигменты и смешай их со связующим."
+    },
+    {
+      "en": "I learned to do it when I was still in a test tube so I’m sure you can figure it out.",
+      "ru": "Я научился этому ещё в пробирке. Уж ты-то наверняка разберёшься."
+    },
+    {
+      "en": "Ask about pigments",
+      "ru": "Спросить о пигментах"
+    },
+    {
+      "en": "Ask about binder",
+      "ru": "Спросить о связующем"
+    },
+    {
+      "en": "Ask about mixing",
+      "ru": "Как смешивать краску?"
+    },
+    {
+      "en": "Was there something else you needed?",
+      "ru": "Тебе ещё что-то нужно?"
+    },
+    {
+      "en": "Tch-! Pigments are easy. Just go crush plants. ...Or something",
+      "ru": "Тьфу! С пигментами всё просто. Растолки какие-нибудь растения. ...Ну, что-то в этом роде."
+    },
+    {
+      "en": "I typically have Nari handle this, but she’s been slacking lately. Probably out in that garden of hers. It's just east of here if you want to look. Send her my regards.",
+      "ru": "Обычно я поручаю это Нари, но в последнее время она отлынивает. Наверное, опять сидит у себя в саду. Если захочешь отыскать её, иди отсюда на восток. Передай ей привет."
+    },
+    {
+      "en": "The binder is certainly one of the more... disgusting aspects. You’ll need something sticky. ",
+      "ru": "Связующее — это, пожалуй, самое... мерзкое. Тебе понадобится что-нибудь липкое."
+    },
+    {
+      "en": "No shortage of that in the below world.",
+      "ru": "Уж этого добра в Нижнем мире хватает."
+    },
+    {
+      "en": "Again with these odious questions! Mixing is mixing. Not that I’ve done that myself either...",
+      "ru": "Опять эти омерзительные вопросы! Как смешивать? Да просто взять и смешать. Хотя я и сам этим никогда не занимался..."
+    },
+    {
+      "en": "Jaz made some fancy machine for it somewhere in the south. Go bother them about it.",
+      "ru": "Для этого у Джаз есть хитроумная машина где-то на юге. Вот к Джаз и приставай."
+    },
+    {
+      "en": "You wish to know about my masterwork? Yes, I suppose this will be good practice for all the interviews I’ll be giving soon.",
+      "ru": "Хочешь узнать о моём шедевре? Что ж, заодно потренируюсь. Скоро ведь мне предстоит раздавать интервью."
+    },
+    {
+      "en": "This painting is really a reflection of life, you see.",
+      "ru": "Видишь ли, в этой картине отражается сама жизнь."
+    },
+    {
+      "en": "It expresses the hardships and beauty found in the below world and tells the story of its creator, a nobody rising to the height of fame!",
+      "ru": "В ней и тяготы, и красота Нижнего мира, и история её создателя, который был никем, а взошёл на вершину славы!"
+    },
+    {
+      "en": "Every brush stroke perfectly placed, every shape lovingly rendered. A symphony in visual form!",
+      "ru": "Каждый мазок на своём месте, каждая линия проведена с любовью. Настоящая симфония красок!"
+    },
+    {
+      "en": "Or at least it would be if only I could get it together! Weeks down the drain and for what? Yet another empty canvas?",
+      "ru": "По крайней мере, так было бы, если бы я наконец взял себя в руки! Столько недель коту под хвост, и что в итоге? Очередной пустой холст?"
+    },
+    {
+      "en": "I must finish this piece, if only so it stops tormenting me!",
+      "ru": "Я должен её закончить! Хотя бы чтобы она перестала меня мучить!"
+    },
+    {
+      "en": "...Keep that off the record.",
+      "ru": "...Только это не для печати."
+    },
+    {
+      "en": "I suppose I could step away from my work for just a moment. Please, ask away!",
+      "ru": "Пожалуй, могу на минутку оторваться от работы. Спрашивай!"
+    },
+    {
+      "en": "Ask about him",
+      "ru": "Спросить о нём"
+    },
+    {
+      "en": "OJ?",
+      "ru": "Гаджет?"
+    },
+    {
+      "en": "Hmph, yes. My siblings. My adoring fans! My career in the arts would have stagnated in a second without their help.",
+      "ru": "Хм, да. Мои братья и сёстры. Мои преданные поклонники! Без их помощи моя карьера художника заглохла бы на старте."
+    },
+    {
+      "en": "Of course, I would have eventually found my way myself, but their early help was invaluable in getting started. ",
+      "ru": "Конечно, я бы и сам рано или поздно нашёл свой путь. Но поначалу их поддержка была бесценна."
+    },
+    {
+      "en": "It has been a while since we’ve talked... I’m sure they’ll understand once they’ve seen my creation. Inspiration doesn’t wait!",
+      "ru": "Давненько мы не общались... Уверен, они всё поймут, когда увидят моё творение. Вдохновение ждать не будет!"
+    },
+    {
+      "en": "How many times must I tell you? I am Ojet! Grand artist of the Below World. A name soon to be beloved by all!",
+      "ru": "Сколько раз тебе повторять? Я Оджет! Великий художник Нижнего мира. Скоро это имя будет у всех на устах!"
+    },
+    {
+      "en": "Sure, I haven’t had any success in my career yet but one day- One day I will be legendary!",
+      "ru": "Да, я пока ничего не добился, но однажды... Однажды я стану легендой!"
+    },
+    {
+      "en": "Why you-",
+      "ru": "Ах ты..."
+    },
+    {
+      "en": "My name is OJET! Pronounced O-Jay! It is the name of an artist! A dignified name, a refined name!",
+      "ru": "Меня зовут ОДЖЕТ! О-ДЖЕТ! Это имя художника! Благородное, изысканное имя!"
+    },
+    {
+      "en": "Do not insult me by reducing my name to something as base as <w>OJ</w>.",
+      "ru": "И не вздумай коверкать моё имя! Какой ещё <w>Гаджет</w>?!"
+    },
+    {
+      "en": "Aha! My paints! Hand them over. Quickly now!",
+      "ru": "Ага! Мои краски! Сюда их, живо!"
+    },
+    {
+      "en": "You’re about to watch a master at work!",
+      "ru": "Сейчас увидишь мастера за работой!"
+    },
+    {
+      "en": "Yes- YES! This is perfect! A masterpiece!",
+      "ru": "Да... ДА! Безупречно! Шедевр!"
+    },
+    {
+      "en": "This will surely be the thing to launch me into stardom! And if it doesn’t... Well I suppose it shall be good experience. Not that I’ve had a very good experience painting it.",
+      "ru": "Вот эта работа точно принесёт мне славу! А если нет... Что ж, хоть опыта наберусь. Приятным этот опыт, правда, не назовёшь."
+    },
+    {
+      "en": "Ah well. That’s the life of an artist, is it not?",
+      "ru": "Ну да ладно. Такова жизнь художника, не правда ли?"
+    },
+    {
+      "en": "I’ll bring that rocket piece to the launchpad myself, as closure you see. I shall never paint that dreadful thing again. Not as long as I live!",
+      "ru": "Деталь ракеты я сам отнесу на стартовую площадку. Пора поставить точку. Эту жуткую штуковину я больше писать не буду. Никогда в жизни!"
+    },
+    {
+      "en": "Now what shall I paint next?",
+      "ru": "Так, что бы мне теперь написать?"
+    },
+    {
+      "en": "Hmmmmm... I’m getting the strangest desire to paint clowns of all things. Have you considered becoming a model? I can pay.",
+      "ru": "Хм-м-м... И с чего это меня вдруг потянуло рисовать клоунов? Не хочешь попозировать? Я могу заплатить."
+    },
+    {
+      "en": "In exposure.",
+      "ru": "Известностью."
+    },
+    {
+      "en": "Have you come to join in our conversation? Me and Nari are catching up on months worth of gossip right now.",
+      "ru": "Хочешь присоединиться к беседе? Мы с Нари как раз обсуждаем сплетни, накопившиеся за несколько месяцев."
+    },
+    {
+      "en": "I've realized that I may have been... neglecting our relationship. Ah well! There's plenty of time to rectify that.",
+      "ru": "Я тут понял, что, кажется... совсем перестал уделять ей время. Ну ничего! У нас ещё полно времени наверстать упущенное."
+    },
+    {
+      "en": "Perhaps she could pose for my next painting... Yes that's an idea. And then I wouldn't need to pay for a model!",
+      "ru": "Может, Нари согласится позировать для моей следующей картины... А что, мысль! И за позирование платить не придётся!"
+    },
+    {
+      "en": "My genius strikes again!",
+      "ru": "Гениально! Как всегда."
+    },
+    {
+      "en": "Such a lively scene! I’m already getting ideas for my next painting.",
+      "ru": "Какая живая сцена! Уже вижу, какой будет моя следующая картина."
+    },
+    {
+      "en": "Do let me know if the circus is hiring. Their posters could use a finer touch.",
+      "ru": "Дай знать, если в цирке ищут художника. Их афишам не помешает рука мастера."
+    },
+    {
+      "en": "Woah look at you! You just look... Delicious...",
+      "ru": "Ой, только посмотри на себя! Как... аппетитно..."
+    },
+    {
+      "en": "No Thank You",
+      "ru": "Нет, спасибо."
+    },
+    {
+      "en": "Oops! Sorry about that! I just get so hungry these days. I haven’t had a meal in... at least 2 hours. It’s bad.",
+      "ru": "Ой! Прости! Я в последнее время вечно голодная. Не ела уже... не меньше двух часов. Кошмар."
+    },
+    {
+      "en": "Poco Rocket Bell Mouth",
+      "ru": "Поко. Ракета. Колокольчик. Рот."
+    },
+    {
+      "en": "A rocket part? Uhh, yeah I think I got one of those somewhere. But I’m so hungry I can’t even remember...",
+      "ru": "Деталь ракеты? Э-э, да, вроде у меня где-то завалялась одна. Но я так проголодалась, что даже не помню где..."
+    },
+    {
+      "en": "Poco Help Food Get",
+      "ru": "Поко помочь. Еду добыть."
+    },
+    {
+      "en": "Oh? You want to help? <w>Welllll...</w>",
+      "ru": "Ой? Хочешь помочь? <w>Ну-у-у...</w>"
+    },
+    {
+      "en": "I’ve been trying to make this fancy recipe over there, but it's so complicated I run out of steam before I even get started! But the food looks so good...",
+      "ru": "Я тут пытаюсь приготовить одно изысканное блюдо, да рецепт такой мудрёный, что я устаю ещё до того, как за него возьмусь! А выглядит-то как аппетитно..."
+    },
+    {
+      "en": "If you can make me that, I’ll probably almost definitely remember where I put that rocket piece!",
+      "ru": "Если это приготовишь, я, скорее всего, почти наверняка вспомню, куда дела деталь ракеты!"
+    },
+    {
+      "en": "Dinnertime?!",
+      "ru": "Пора обедать?!"
+    },
+    {
+      "en": "Aww......",
+      "ru": "Эх..."
+    },
+    {
+      "en": "Hurry up. I’m starving over here!",
+      "ru": "Поторопись! Я тут с голоду помираю!"
+    },
+    {
+      "en": "Ask about the recipe",
+      "ru": "Спросить о рецепте"
+    },
+    {
+      "en": "Ask about the grill",
+      "ru": "Спросить о гриле"
+    },
+    {
+      "en": "Ask about Gultch",
+      "ru": "Спросить о Галч"
+    },
+    {
+      "en": "Well I’ve got the recipe pulled up on that fancy book over there. Doesn’t it just look delicious... I can practically taste it already.",
+      "ru": "Вон та красивая книга открыта на рецепте. Правда, аппетитно выглядит? Я уже почти чувствую вкус."
+    },
+    {
+      "en": "Ask about the carrots",
+      "ru": "Спросить о моркови"
+    },
+    {
+      "en": "Ask about the milk",
+      "ru": "Спросить о жучьем молоке"
+    },
+    {
+      "en": "Ahhh fish. So beautiful. So tasty!",
+      "ru": "А-а-а, рыба... Красавица. И вкусная!"
+    },
+    {
+      "en": "I haven’t had one in FOR-EV-ER though! They’re so hard to catch.",
+      "ru": "Только я её уже ЦЕ-ЛУ-Ю ВЕЧ-НОСТЬ не ела! Её так трудно поймать."
+    },
+    {
+      "en": "Having to sit still for so long just waiting and waiting and waiting- I’d die of hunger before I ever caught one! But you’re small, you don’t have these problems.",
+      "ru": "Сиди смирно, жди, жди и снова жди... Я с голоду помру раньше, чем хоть одну поймаю! А тебе, крохе, с этим проще."
+    },
+    {
+      "en": "Though, fish don’t like cliffs very much. You’ll have to go visit Jaz down by the lake to find any.",
+      "ru": "Только рыба не особо жалует обрывы. За рыбой спускайся к озеру, к Джаз."
+    },
+    {
+      "en": "...Come to think of it, maybe I should go visit them too.",
+      "ru": "...Хотя, если подумать, мне бы и самой не мешало заглянуть к Джаз."
+    },
+    {
+      "en": "Vegetables are an essential part of any meal! Very important for the flavor profile.",
+      "ru": "Без овощей ни одно блюдо не обходится! От них же весь вкус."
+    },
+    {
+      "en": "There’s some delectable carrots growing south of here. Oh but... They might be a little too big for you. Hm.",
+      "ru": "К югу отсюда растёт чудесная морковь. Ой, хотя... Тебе она, пожалуй, великовата. Хм."
+    },
+    {
+      "en": "Well, I’m sure you’ll figure something out!",
+      "ru": "Ну, ты уж точно что-нибудь придумаешь!"
+    },
+    {
+      "en": "Beetle milk... <w>Mmmmmmmmmmmmmmm</w> The ingredient that ties everything together, making these disparate parts turn into a beautiful meal.",
+      "ru": "Жучье молоко... <w>М-м-м-м-м-м-м</w> Вот что объединяет все эти продукты в одно восхитительное блюдо."
+    },
+    {
+      "en": "This one shouldn’t be that hard. There’s plenty of beetles in the below world!",
+      "ru": "Тут уж ничего сложного. В Нижнем мире жуков полно!"
+    },
+    {
+      "en": "But like, don’t be weird about it okay?",
+      "ru": "Только без фокусов, ладно?"
+    },
+    {
+      "en": "Isn’t this grill just the coolest?! It burns so hot and it cooks everything perfectly. I use it for everything!",
+      "ru": "Ну разве мой гриль не чудо?! Жарит будь здоров, что ни положишь — всё получается как надо. Я на нём вообще всё готовлю!"
+    },
+    {
+      "en": "Which I guess is why it doesn’t have any more fuel. So it looks like you’ll need to find that too buddy! And a way to start a fire while you’re at it.",
+      "ru": "Вот топливо, видать, и кончилось. Придётся раздобыть и его, дружок! И заодно найти, чем разжечь огонь."
+    },
+    {
+      "en": "Can’t cook a meal without the grill! Unless you want to use the sun I guess. And be willing to wait a long, long time.",
+      "ru": "Без гриля ужин не приготовишь! Ну, разве что на солнце. Если есть время ждать до скончания веков."
+    },
+    {
+      "en": "Don’t take too long! Otherwise I’ll have to resort to... Drastic Measures.",
+      "ru": "Только не тяни! А то придётся пойти на... Крайние Меры."
+    },
+    {
+      "en": "More questions?",
+      "ru": "Ещё вопросы?"
+    },
+    {
+      "en": "Oh- oh-! Are we sharing secrets?",
+      "ru": "Ой-ой! Мы теперь делимся секретами?"
+    },
+    {
+      "en": "What's with the bib?",
+      "ru": "Зачем тебе слюнявчик?"
+    },
+    {
+      "en": "Gosh where do I even start? I think I must have the coolestest siblings ever!",
+      "ru": "Ох, с чего бы начать? По-моему, у меня самые-пресамые классные братья и сёстры на свете!"
+    },
+    {
+      "en": "Like Jaz builds so many big machines and helps everyone out. And Nari can make anything grow, even the rare stuff.",
+      "ru": "У Джаз столько огромных машин для всех нас! А у Нари растёт что угодно, хоть самые редкие растения."
+    },
+    {
+      "en": "Ojet acts all mean but he’s really a big softie and he cries when he makes a big painting.",
+      "ru": "Оджет строит из себя злюку, а сам такой душка! Даже плачет, когда заканчивает большую картину."
+    },
+    {
+      "en": "And Gripp! ...I haven’t seen him in a while. But I’m sure he’s also doing cool stuff.",
+      "ru": "А Грипп!.. Давно его не видела. Но уверена, он тоже занят чем-нибудь классным."
+    },
+    {
+      "en": "Aren’t we all just so talented?",
+      "ru": "Ну разве мы все не талантищи?"
+    },
+    {
+      "en": "I’m what you’d call a <w> \"\"con-eh-sewer\"\". </w>",
+      "ru": "Я, знаешь ли, <w>ди-гу-ста-тырша.</w>"
+    },
+    {
+      "en": "No one knows Below World cuisine better than I do. Because I’m the only one with the guts around here!",
+      "ru": "Никто так не разбирается в кухне Нижнего мира, как я. Потому что у меня одной желудок крепкий!"
+    },
+    {
+      "en": "I’ll try anything once. ANYTHING. Even my own leg!",
+      "ru": "Я хоть раз попробую что угодно. ЧТО УГОДНО. Хоть собственную ногу!"
+    },
+    {
+      "en": "That was pretty tasty...",
+      "ru": "Вкусно было, кстати..."
+    },
+    {
+      "en": "Bib weird clothes what",
+      "ru": "Слюнявчик. Странная одежда. Что это?"
+    },
+    {
+      "en": "Um, because I’m a pretty princess. OBVIOUSLY.",
+      "ru": "Потому что я прекрасная принцесса. ОЧЕВИДНО ЖЕ."
+    },
+    {
+      "en": "Our creator gave it to me himself! Before he- um- Nevermind.",
+      "ru": "Мне его сам наш создатель подарил! Ещё до того, как он... Э-э... Неважно."
+    },
+    {
+      "en": "But it’s fashionable so I keep it.",
+      "ru": "Модная вещица. Вот и ношу."
+    },
+    {
+      "en": "Grill’s out of fuel! You’ll need to get something flammable.",
+      "ru": "В гриле кончилось топливо! Нужно раздобыть что-нибудь горючее."
+    },
+    {
+      "en": "Can’t cook with no heat! Do you have something to start a fire?",
+      "ru": "Без огня ничего не приготовишь! Есть чем его разжечь?"
+    },
+    {
+      "en": "The grill still needs a pan. You do not want to be cooking directly on it, I promise.",
+      "ru": "Ещё нужна сковородка. Поверь, прямо на гриле лучше не готовить."
+    },
+    {
+      "en": "Looks like you have everything! Ready to start cooking?",
+      "ru": "Похоже, всё на месте! Начнём готовить?"
+    },
+    {
+      "en": "Yes!",
+      "ru": "Да!"
+    },
+    {
+      "en": "No way!",
+      "ru": "Ни за что!"
+    },
+    {
+      "en": "Yay!! Food time!",
+      "ru": "Ура-а! Сейчас поедим!"
+    },
+    {
+      "en": "Aw. Okay then. I'll wait...",
+      "ru": "Эх. Ну ладно, подожду..."
+    },
+    {
+      "en": "You can’t cook yet! You don’t have all the ingredients, silly!",
+      "ru": "Готовить ещё рано! Мы же не всё собрали, глупыш!"
+    },
+    {
+      "en": "<w>Ooooooh...</w> That smells GREAT!",
+      "ru": "<w>О-о-о-о-о...</w> Вот это ЗАПАХ!"
+    },
+    {
+      "en": "Give it here! And stand back. This may get messy...",
+      "ru": "Давай сюда! И отойди. Сейчас тут всё может забрызгать..."
+    },
+    {
+      "en": "BELCH",
+      "ru": "ОТРЫЖКА"
+    },
+    {
+      "en": "Ahhhh. Delicious! You must be the bestest chef in the whole Below world!",
+      "ru": "А-а-а... Вкуснотища! Да ты самый-самый лучший повар во всём Нижнем мире!"
+    },
+    {
+      "en": "And now it’s time for the food coma! Oh wait- Your rocket part.",
+      "ru": "Ну всё, теперь можно и отрубиться! Ой, погоди. Твоя деталь ракеты."
+    },
+    {
+      "en": "I'd hand it over, but I think it'd crush you. This thing's big and heavy, and you're so small...",
+      "ru": "Я бы тебе её отдала, но она тебя, пожалуй, раздавит. Тяжеленная, да и размером куда больше тебя..."
+    },
+    {
+      "en": "I'm setting it up for you! It's decided. Come by the launchpad later, I'll bring it straight there.",
+      "ru": "Я сама поставлю её на место! Решено. Загляни потом на стартовую площадку, я притащу её прямо туда."
+    },
+    {
+      "en": "That was definitely in the top ten best meals ever! ",
+      "ru": "Этот обед точно входит в десятку самых вкусных в моей жизни!"
+    },
+    {
+      "en": "Even better than that corpse over there! But probably not as good as my leg.",
+      "ru": "Даже вкуснее, чем вон тот труп! Хотя моя нога, пожалуй, была вкуснее."
+    },
+    {
+      "en": "Nothing’s as good as that...",
+      "ru": "Уж её-то ничто не переплюнет..."
+    },
+    {
+      "en": "Hi! I set up your rocket piece! Now we just gotta wait for the rest of it.",
+      "ru": "Привет! Я поставила твою деталь на место. Теперь осталось дождаться остальных."
+    },
+    {
+      "en": "Do you think those clovers over there are edible? Actually, I'll go test it myself.",
+      "ru": "Как думаешь, вон тот клевер съедобный? А, ладно, сама попробую."
+    },
+    {
+      "en": "Oh I should’ve brought the grill! It’s not a real party without some food.",
+      "ru": "Ох, надо было захватить гриль! Ну что за праздник без еды?"
+    },
+    {
+      "en": "I’m already picking out meals for next time you visit, so don’t take too long, okay?",
+      "ru": "Я уже придумала, чем накормлю тебя в следующий раз. Так что не пропадай надолго, ладно?"
+    },
+    {
+      "en": "GUH-! What are you doing in my <w>hoard?!</w>",
+      "ru": "А-А! Что ты делаешь в моей <w>сокровищнице?!</w>"
+    },
+    {
+      "en": "Thief! You’ll regret this-",
+      "ru": "Вор! Ты у меня..."
+    },
+    {
+      "en": "Poco circus fall banish",
+      "ru": "Поко. Цирк. Падение. Изгнание."
+    },
+    {
+      "en": "Oh. You- you fell? From the circus?",
+      "ru": "А. Так ты... прямо из цирка сюда?"
+    },
+    {
+      "en": "And you lived? Ouch! That must have hurt.",
+      "ru": "И хоть бы что? Ох, больно, наверное, было!"
+    },
+    {
+      "en": "WHEW well anyways that’s a relief! I thought you were trying to rob me! And then I’d have to do something- Less friendly haha…",
+      "ru": "ФУХ, ну и отлегло! А я уж думал, ты меня ограбить хочешь! Тогда пришлось бы... встретить тебя не так дружелюбно. Ха-ха..."
+    },
+    {
+      "en": "Name’s Gripp! And this is the best collection you’ll ever see in the below world- If anyone tells you they have one better they’re lying and you should do something about it.",
+      "ru": "Зовут меня Грипп! А это лучшая коллекция во всём Нижнем мире. Если кто скажет, что у него лучше, знай: врёт. И прими меры."
+    },
+    {
+      "en": "But look at me I’m being just a terrible host, do you want... Things? Water? Collectable doll parts?",
+      "ru": "Ох, какой же я хозяин. Тебе предложить... что-нибудь? Воды? Деталей коллекционных кукол?"
+    },
+    {
+      "en": "Outside please busy",
+      "ru": "Наружу. Пожалуйста. Дела."
+    },
+    {
+      "en": "Right yeah you- You want to leave. That- that makes sense.",
+      "ru": "А, да, ты... Ты хочешь уйти. Ну да, понятно."
+    },
+    {
+      "en": "Uh. One problem. I haven’t seen my keys in well- I don’t know how long. I lost track of the time past the 100 day mark...",
+      "ru": "Эм. Тут есть одна проблема. Я ключей уже... даже не знаю сколько не видел. После сотого дня я сбился со счёта..."
+    },
+    {
+      "en": "But uh- Now that there’s two of us maybe the search will go faster. And if not- I- Have room for a roommate?",
+      "ru": "Но, э-э... Вдвоём мы, может, быстрее их найдём. А если нет... У меня, в общем, найдётся место для соседа?"
+    },
+    {
+      "en": "No luck? Keep searching. Until we find something to open this door neither of us is going anywhere.",
+      "ru": "Ничего? Ищи дальше. Пока не найдём, чем открыть дверь, отсюда никто не выйдет."
+    },
+    {
+      "en": "Still no key. Though I have found my lost mold collection. Such good feel... Any luck on your end?",
+      "ru": "Ключа всё ещё нет. Зато я нашёл свою пропавшую коллекцию плесени. Какая приятная на ощупь... У тебя как?"
+    },
+    {
+      "en": "Nothing? Really? That’s- Well that’s bad. I don’t actually have enough rations for two and you have places to be.",
+      "ru": "Ничего? Серьёзно? Это... Ну, это плохо. Припасов на двоих у меня, вообще-то, нет. Да и у тебя свои дела."
+    },
+    {
+      "en": "Wait a minute. That’s my axe.",
+      "ru": "Погоди-ка. Это же мой топорик."
+    },
+    {
+      "en": "Yes. Yes that will do nicely. Hand it over!",
+      "ru": "Да. Да, как раз то, что надо. Давай сюда!"
+    },
+    {
+      "en": "Take this you stupid door!",
+      "ru": "На тебе, дурацкая дверь!"
+    },
+    {
+      "en": "<w>HAHAHAHAHAHAHAHAHAHAHAHAHAHA</w>",
+      "ru": "<w>ХАХАХАХАХАХАХАХАХАХАХАХАХА</w>"
+    },
+    {
+      "en": "Haha... ha...",
+      "ru": "Ха-ха... ха..."
+    },
+    {
+      "en": "Oh that felt good! Now I can finally go out... side...",
+      "ru": "Ух, как полегчало! Теперь я наконец могу выйти на... ружу..."
+    },
+    {
+      "en": "Uh. It’s really bright out there. And big. And scary...",
+      "ru": "Э-э. Там так светло. И всё такое большое. И страшное..."
+    },
+    {
+      "en": "Never- Nevermind! That’s- you can do that if you want but I’m staying right here in the comfort of my hoard thank you very much!",
+      "ru": "По... Погоди! Хочешь идти? Иди, а я тут, у себя в сокровищнице, останусь. Мне и здесь чудесно, спасибо!"
+    },
+    {
+      "en": "You want to get back to that circus, right? Well, I think I might know a way.",
+      "ru": "Ты же хочешь обратно в цирк, да? Кажется, я знаю, как туда попасть."
+    },
+    {
+      "en": "This rocket fell down here a while back. Me and my- my siblings- We split the parts. Well, they split the parts and I was also there.",
+      "ru": "Сюда как-то упала ракета. Мы с моими... братьями и сёстрами поделили детали. Ну, они поделили, а я там был."
+    },
+    {
+      "en": "They probably still have them, somewhere out there. But I’m not leaving this spot so good luck!",
+      "ru": "Детали, наверное, всё ещё у них, где-то там снаружи. Но я отсюда ни ногой, так что удачи!"
+    },
+    {
+      "en": "Oh and- If you happen to see any of my keys out there please return them to me. Discretely.",
+      "ru": "А, и ещё... Если наткнёшься на мои ключи, верни их, пожалуйста. Только без шума."
+    },
+    {
+      "en": "Oh- You’re back.",
+      "ru": "О... А вот и ты."
+    },
+    {
+      "en": "You uh- Having fun out there?",
+      "ru": "Ну, э-э... Весело там?"
+    },
+    {
+      "en": "Ask about the keys",
+      "ru": "Спросить о ключах"
+    },
+    {
+      "en": "Ask about the rocket",
+      "ru": "Спросить о ракете"
+    },
+    {
+      "en": "Ask about Gripp",
+      "ru": "Спросить о Гриппе"
+    },
+    {
+      "en": "Have you found any? They’re- its for my vaults. That’s where all the very best of my collection is. But I- I haven’t been able to actually look at it in ages!",
+      "ru": "Попались какие-нибудь? Это... Это ключи от моих хранилищ. Там самое лучшее из всей коллекции, а я уже сто лет к ней подступиться не могу!"
+    },
+    {
+      "en": "That’s enough to drive a guy crazy! But I’m- I manage.",
+      "ru": "Так и с ума сойти можно! Но я... Я держусь."
+    },
+    {
+      "en": "I wouldn’t even know where to start looking. Believe it or not, I used to be quite the adventurer. That’s how I got all the stuff!",
+      "ru": "Даже не знаю, где искать. Хочешь верь, хочешь нет, а когда-то я был тем ещё искателем приключений. Так у меня и появилось всё это добро!"
+    },
+    {
+      "en": "But somewhere along the way I must have dropped my key ring...",
+      "ru": "Наверное, в одном из походов я и обронил связку ключей..."
+    },
+    {
+      "en": "They- Well they could be literally anywhere. A-ny-where. I’d hate to be out there looking for them. Real needle in a haystack situation. Not a good time.",
+      "ru": "Они... Да они где угодно могут быть. Где у-год-но. Вот уж не хотел бы я сам за ними идти. Иголку в стоге сена и то проще найти. Ну его."
+    },
+    {
+      "en": "Well, have fun!",
+      "ru": "Ладно, удачных поисков!"
+    },
+    {
+      "en": "No rocket here! Not that I’d let you take it if I had one. The hoard is strictly for viewing thank you. Well- Viewing for you. I can touch all I want.",
+      "ru": "Ракеты тут нет! А если бы и была, я бы тебе её не отдал. В моей сокровищнице можно только смотреть, ясно? Ну - тебе только смотреть. А я могу трогать сколько угодно."
+    },
+    {
+      "en": "My siblings though, they’ll let you take the parts. Probably.",
+      "ru": "А вот мои братья и сёстры тебе детали отдадут. Наверное."
+    },
+    {
+      "en": "You’ll find them somewhere out there. Unless one of them died.",
+      "ru": "Найдёшь их где-нибудь там. Если, конечно, никто из них не умер."
+    },
+    {
+      "en": "I’m not thinking about that actually. Do you want to hear about my wax collection?",
+      "ru": "Нет, об этом я думать не буду. Хочешь, расскажу про свою коллекцию воска?"
+    },
+    {
+      "en": "Leaving? So soon? But I haven’t even shown you where I keep the teeth!",
+      "ru": "Уходишь? Уже? Я ведь даже не показал, где храню зубы!"
+    },
+    {
+      "en": "Oh well- Safe travels. Or, as safe as they can be in the below world.",
+      "ru": "Ну ладно... Береги себя в дороге. Насколько это вообще возможно в Нижнем мире."
+    },
+    {
+      "en": "What is this, an interrogation? I- I haven’t done anything wrong. To you at least!",
+      "ru": "Это что, допрос? Я... Я ничего плохого не сделал. Тебе, во всяком случае!"
+    },
+    {
+      "en": "Why the shell?",
+      "ru": "Зачем ему раковина?"
+    },
+    {
+      "en": "What were we talking about again?",
+      "ru": "Так о чём мы говорили?"
+    },
+    {
+      "en": "Oh- Yeah. Have you met my siblings?",
+      "ru": "А... Ага. Ты уже знаешь моих братьев и сестёр?"
+    },
+    {
+      "en": "They’re- They’re a talented bunch I’ll say. Not ones for collecting things but then again- I don’t need the competition.",
+      "ru": "Они... Талантливые, что уж там. К собирательству душа у них не лежит. Оно и к лучшему. Зачем мне соперники?"
+    },
+    {
+      "en": "Are they- Are they doing good? Successful? ...Alive?",
+      "ru": "У них... У них всё хорошо? Дела идут? ...Все живы?"
+    },
+    {
+      "en": "Okay. Good. Okay.",
+      "ru": "Ладно. Хорошо. Ладно."
+    },
+    {
+      "en": "I’m- I’m Gripp! You know me. I’ve got nothing to hide.",
+      "ru": "Я... Я Грипп! Ты же меня знаешь. Мне нечего скрывать."
+    },
+    {
+      "en": "I’ve got this great hoard! Look at it! Appreciate it! Nothing nefarious would ever happen here! Everything here- Gained through the proper channels I’ll have you know-",
+      "ru": "У меня отличная сокровищница! Посмотри! Полюбуйся! Никаких тёмных делишек здесь отродясь не было! Всё тут... законно раздобыто, между прочим..."
+    },
+    {
+      "en": "Oh, you just wanted to chat? Really? Uh-",
+      "ru": "А, тебе просто поболтать хотелось? Правда? Э-э..."
+    },
+    {
+      "en": "Yeah sure let’s- let’s talk about- Anything else.",
+      "ru": "Ага, давай... Давай поговорим... о чём угодно другом."
+    },
+    {
+      "en": "Shell snail need",
+      "ru": "Раковина. Улитке нужна."
+    },
+    {
+      "en": "Hey some- Some people just need shells. It’s not weird!",
+      "ru": "Эй, некоторым... Некоторым просто нужна раковина. Ничего странного!"
+    },
+    {
+      "en": "I ah- acquired this out on my travels. Useful for keeping the sun off my eyes, lots of storage space, private. Great texture too...",
+      "ru": "Я её, кхм... раздобыл в одном из путешествий. Солнце в глаза не бьёт, места для вещей полно, можно уединиться. И на ощупь приятная..."
+    },
+    {
+      "en": "Nice, right? You like it? Well too bad! It’s mine, hands off!",
+      "ru": "Хороша, правда? Нравится? Губу не раскатывай! Моя. Руки прочь!"
+    },
+    {
+      "en": "Hey you- Don’t don’t look at me like that! I don’t look that weird without the shell, right? Right?!",
+      "ru": "Эй, ты... Не... Не смотри на меня так! Я же без раковины не так уж странно выгляжу, правда? Правда?!"
+    },
+    {
+      "en": "Okay. Good.",
+      "ru": "Ладно. Хорошо."
+    },
+    {
+      "en": "I just- wanted to see how the rocket was doing. I can't help build it or anything but- Moral support is still good, I think.",
+      "ru": "Я просто... хотел посмотреть, как там ракета. Со сборкой я не помогу, но могу хоть подбодрить. Это ведь тоже чего-то стоит, да?"
+    },
+    {
+      "en": "Thanks for finding my keys, by the way. You didn't... Touch anything while you were in my vaults, did you?",
+      "ru": "Кстати, спасибо за ключи. В моих хранилищах ведь всё на месте, да? Там... ничего не трогали?"
+    },
+    {
+      "en": "GAHH-! Oh it's just you.",
+      "ru": "А-А-А! А, это ты."
+    },
+    {
+      "en": "Ah- Congrats? Yeah- This is. Happy. It’s- good. Great, even!",
+      "ru": "Э-э... Поздравляю? Да... Повод для радости. Это... хорошо. Даже здорово!"
+    },
+    {
+      "en": "It’s... So bright out here man.",
+      "ru": "Ну и светло же тут..."
+    },
+    {
+      "en": "Is the circus making house calls now? Innovative, I’ll give them that.",
+      "ru": "Цирк теперь и на дом выезжает? Хитро придумали, ничего не скажешь."
+    },
+    {
+      "en": "<w>Hrrk!</w> But these stomach pains-! They take away all the joy from my life. I’m not in the mood to see any tricks, so run along little clown.",
+      "ru": "<w>Кхр!</w> Ох, как живот сводит! С такой болью и жить-то невесело. Не до фокусов мне, так что ступай отсюда, клоунишка."
+    },
+    {
+      "en": "Help him",
+      "ru": "Помочь ему"
+    },
+    {
+      "en": "Leave",
+      "ru": "Уйти"
+    },
+    {
+      "en": "Wait what are you-?!",
+      "ru": "Погоди, ты чего?!"
+    },
+    {
+      "en": "Yeah. See you.",
+      "ru": "Ага. Бывай."
+    },
+    {
+      "en": "Do you mind? I’m trying to watch the news.",
+      "ru": "Потише там. Я новости смотрю."
+    },
+    {
+      "en": "The worm economy is not looking too good lately...",
+      "ru": "Что-то червячья экономика нынче не радует..."
+    },
+    {
+      "en": "Hey! Keep your hands to yourself!",
+      "ru": "Эй! Руки при себе держи!"
+    },
+    {
+      "en": "Guh-! What have you done?!",
+      "ru": "Ух! Это что ты со мной такое творишь?!"
+    },
+    {
+      "en": "I feel- ...Better? Lighter. More free. I didn’t even realize how slouched I was until now...",
+      "ru": "Мне... лучше? Как-то легче. Свободнее. Я и не замечал, как сильно сутулился..."
+    },
+    {
+      "en": "But still-! Look at me! You have to be able to undo this, right?",
+      "ru": "Но всё равно... Ты только посмотри на меня! Можно же всё вернуть как было, правда?"
+    },
+    {
+      "en": "Right?!",
+      "ru": "Правда?!"
+    },
+    {
+      "en": "Ohhhhhh how am I going to explain this to my wife?!",
+      "ru": "Ох-х-х, как я теперь жене это объясню?!"
+    },
+    {
+      "en": "Woah, hey there little dude. You come all the way down here from that circus?",
+      "ru": "Ого, здорово, малыш! Ты что, из самого цирка?"
+    },
+    {
+      "en": "Poco Bell Rocket Home Help",
+      "ru": "Поко. Колокольчик. Ракета. Домой. Помоги."
+    },
+    {
+      "en": "Uh huh... That’s definitely a bind you got yourself in. Lucky for you, you came to the right homunculi for the job.",
+      "ru": "Ага... Вот это переделка. Хорошо, что тебе встретился нужный гомункул."
+    },
+    {
+      "en": "The name’s Jaz, musician and inventor extraordinaire. I can get you that rocket part. I’ll even help you build it if you need help assembling.",
+      "ru": "Зови меня Джаз. Музыка и изобретения — тут мне равных нет. Достану тебе деталь ракеты. Если надо, и со сборкой помогу."
+    },
+    {
+      "en": "Only... I’m dealing with a bit of a situation of my own right now.",
+      "ru": "Только... У меня тут свои заморочки."
+    },
+    {
+      "en": "See this machine? Cool right? It’s part of this radio network- Delivering all the raddest tunes to the Below World. Or, trying to at least.",
+      "ru": "Видишь эту штуку? Классная, да? Она подключена к радиосети. По ней мы крутим самые улётные треки на весь Нижний мир. Ну, стараемся."
+    },
+    {
+      "en": "My broadcast system broke down a while back and I haven’t been able to find any spare parts. Not that there’s much to show right now. ",
+      "ru": "Передатчик давненько накрылся, а запчастей всё нет. Да и в эфире сейчас особо нечего крутить."
+    },
+    {
+      "en": "Our number one pop group broke up ages ago and I think everyone’s getting tired of hearing their greatest hits. Major bummer.",
+      "ru": "Наша лучшая поп-группа сто лет как распалась. По-моему, всем уже осточертели её главные хиты. Полный облом."
+    },
+    {
+      "en": "Anyways I’m stuck trying to fix this mess for the foreseeable future so there’s no room for anything else in my schedule.",
+      "ru": "Короче, разгребать это всё ещё долго. Ни на что другое времени нет."
+    },
+    {
+      "en": "Poco help please music",
+      "ru": "Поко помочь. Пожалуйста. Музыка."
+    },
+    {
+      "en": "I mean hey, if you want to help go for it. I know there’s some spare parts for the recorder laying around somewhere but, well I’m not exactly the most organized guy around. ",
+      "ru": "Слушай, если хочешь помочь, давай. Где-то тут валяются запчасти для записывающего аппарата. Как видишь, дома у меня не образцовый порядок."
+    },
+    {
+      "en": "And if you could find me some new music or, even better, get that old band back together that’d be pretty groovy.",
+      "ru": "А если найдёшь, что новенького поставить в эфир, будет здорово. Ещё лучше — если соберёшь ту группу заново. Вот это был бы кайф."
+    },
+    {
+      "en": " I know their old drummer has been camped out up the road for a while now. Just tell him I sent ya. And I’ll try and get you that rocket part when I’ve got a spare minute.",
+      "ru": "Их бывший барабанщик давно уже обосновался дальше по дороге. Скажи, что ты от меня. А я в свободную минутку поищу твою деталь ракеты."
+    },
+    {
+      "en": "Sorry man, haven’t found that rocket part yet. Any luck with getting the band together?",
+      "ru": "Извини, дружок, деталь пока не нашлась. Получается собрать группу?"
+    },
+    {
+      "en": "Ask about the band",
+      "ru": "Спросить о группе"
+    },
+    {
+      "en": "Ask about inventions",
+      "ru": "Спросить об изобретениях"
+    },
+    {
+      "en": "Ask about Jaz",
+      "ru": "Спросить о Джаз"
+    },
+    {
+      "en": "That group used to be absolutely killer dude. Four musicians at the height of their craft working together to bring the Below World the hottest tunes around.",
+      "ru": "Вот это была группа, дружище! Все четверо — асы. Вместе они выдавали самые улётные треки в Нижнем мире."
+    },
+    {
+      "en": "We were on our way to becoming a real music destination! And then they just- fell apart. No idea why. Probably some drama.",
+      "ru": "Ещё немного, и к нам бы со всего света ездили музыку слушать! А потом группа взяла и... развалилась. Понятия не имею почему. Наверное, не поладили."
+    },
+    {
+      "en": "I’ve tried convincing the drummer to give it another go but he won’t listen to me. Maybe you’ll have some better luck though.",
+      "ru": "Я уговариваю барабанщика попробовать ещё раз, а он и слушать не хочет. Может, тебе больше повезёт."
+    },
+    {
+      "en": "I build a lot of stuff. You got a specific one you want to know more about?",
+      "ru": "Я много чего мастерю. Про что именно хочешь узнать?"
+    },
+    {
+      "en": "Ask about the recorder",
+      "ru": "Спросить об аппарате"
+    },
+    {
+      "en": "Ask about the mixer",
+      "ru": "Спросить о смесителе"
+    },
+    {
+      "en": "Ask about the garden",
+      "ru": "Спросить о саде"
+    },
+    {
+      "en": "Ugh, this thing is such a simple fix I’m almost upset I haven’t done it yet.",
+      "ru": "Эх, починить его проще простого. Как это у меня до сих пор руки не дошли?"
+    },
+    {
+      "en": "All I need is one little gear to get things working again. Well, that and some power obviously. Don’t go moving that potato battery around without good reason, okay?",
+      "ru": "Нужна одна маленькая шестерёнка, и всё снова заработает. Ну и питание, само собой. Только картофельную батарейку без причины не таскай, ладно?"
+    },
+    {
+      "en": "Oh yeah, I built that mixer for Ojet so he could get his paints down here.",
+      "ru": "А, точно. Этот смеситель — моё изобретение для Оджета. Чтобы он мог сам готовить краски здесь, в Нижнем мире."
+    },
+    {
+      "en": "It should just run off the power from the water but... I think something’s wrong with the dam. Which means something’s wrong with the pipes which means-",
+      "ru": "Его должен крутить напор воды, только... По-моему, с плотиной что-то не так. А значит, и с трубами что-то не так. Из этого следует..."
+    },
+    {
+      "en": "It never ends, I tell ya.",
+      "ru": "Да когда ж это кончится!"
+    },
+    {
+      "en": "If there's something wrong with Nari's garden then one of the two inventions I made is probably broken again.",
+      "ru": "Если в саду Нари что-то не так, наверняка опять сломалось одно из двух моих изобретений."
+    },
+    {
+      "en": "There's a reflector up on the cliffs that sends sunlight down and an irrigation system of my own invention so she doesn’t have to spend all day trying to water everything.",
+      "ru": "На скалах стоит отражатель и направляет солнечный свет вниз. А ещё у Нари есть моя система полива, чтобы не тратить весь день на грядки."
+    },
+    {
+      "en": "The reflector probably just needs an adjustment if anything. The irrigation... Well something must be wrong with the pipes at the dam. Again.",
+      "ru": "Отражатель, скорее всего, достаточно повернуть. А с поливом... Опять, видимо, что-то с трубами у плотины."
+    },
+    {
+      "en": "Peace out",
+      "ru": "Бывай"
+    },
+    {
+      "en": "Yeah?",
+      "ru": "Ага?"
+    },
+    {
+      "en": "I’m an open book over here. What do you want to know?",
+      "ru": "У меня секретов нет. Что хочешь узнать?"
+    },
+    {
+      "en": "Ask about them",
+      "ru": "Спросить о Джаз"
+    },
+    {
+      "en": "Ask about instruments",
+      "ru": "Спросить об инструментах"
+    },
+    {
+      "en": "Me and my siblings, we’re tight. Sure, we haven’t spoken in a few uh, months? Maybe years for some. But we’ve got that bond you can’t replace.",
+      "ru": "Мы с братьями и сёстрами близки. Ну да, мы не общались уже несколько, э-э... месяцев? А с кем-то, может, и лет. Но такую связь ничем не заменишь."
+    },
+    {
+      "en": "Anyways you wanted to talk about something else?",
+      "ru": "Так о чём ещё поговорим?"
+    },
+    {
+      "en": "Oh, me? I’m a master of all trades. Musician, inventor, radio host, you name it. I’m practically the lynchpin holding Below World infrastructure together.",
+      "ru": "А, обо мне? Я много чего умею. Музыка, изобретения, радио... На мне, считай, всё хозяйство Нижнего мира держится."
+    },
+    {
+      "en": "You wouldn’t believe how often things break around here. Or maybe you would, who’s to say.",
+      "ru": "Ты даже не представляешь, как часто тут всё ломается. Хотя, может, и представляешь. Кто знает."
+    },
+    {
+      "en": "I’m so busy I can’t even hear myself think half the time! ",
+      "ru": "Дел навалом. Порой даже собственных мыслей за ними не слышу!"
+    },
+    {
+      "en": "I used to paddle out onto the lake to get some peace and quiet, but my oar went missing a while back and I don't have it in me to build a new one.",
+      "ru": "Мне нравилось выплывать на озеро и сидеть там в тишине. Но весло давно пропало, а на новое сил уже нет."
+    },
+    {
+      "en": "But hey, just means I've got more time for work, right?",
+      "ru": "Ну, зато больше времени на работу, да?"
+    },
+    {
+      "en": "Oh I’m an expert at the oboe but I dabble with the other woodwinds and do some moonlighting as a DJ.",
+      "ru": "Мой конёк — гобой. Но я и другие деревянные духовые осваиваю, а в свободное время подрабатываю диджеем."
+    },
+    {
+      "en": "The more tactile stuff is easier what with the ah- lack of sight, but I'm always up for a challenge.",
+      "ru": "Всё, что можно делать на ощупь, даётся мне проще. Со зрением у меня, э-э... никак. Но трудностей я не боюсь."
+    },
+    {
+      "en": "You play the horn, right? We should have a jam sesh some time.",
+      "ru": "Ты ведь на трубе играешь? Надо как-нибудь вместе поиграть."
+    },
+    {
+      "en": "How's it going with the band?",
+      "ru": "Как там дела с группой?"
+    },
+    {
+      "en": "John dead band play",
+      "ru": "Джон мёртв. Группа. Сыграть."
+    },
+    {
+      "en": "What? John's Dead? Oh man, that's totally devastating.",
+      "ru": "Что? Джон умер? Вот чёрт... Какой ужас."
+    },
+    {
+      "en": "The last time they saw each other must have been when they broke up...",
+      "ru": "Наверное, они с того самого дня и не виделись. С тех пор как группа распалась..."
+    },
+    {
+      "en": "Band play song",
+      "ru": "Группа. Сыграть песню."
+    },
+    {
+      "en": "Oh? They want to play a song in his honor? And with you? That's a great idea.",
+      "ru": "А? Они хотят сыграть в его память? И приглашают тебя? Отличная идея."
+    },
+    {
+      "en": "The recorder is good on power, we'll just need another cog and we're good to go.",
+      "ru": "Питание к аппарату подключено. Нужна ещё одна шестерёнка, и можно записывать."
+    },
+    {
+      "en": "Okay, all the parts are here, but the recorder isn't turning on. Someone must have unplugged it again.",
+      "ru": "Так, детали на месте, а аппарат не включается. Кто-то опять выдернул вилку."
+    },
+    {
+      "en": "I'd love to begin the song, but the recorder is still a mess.",
+      "ru": "Хочется уже сыграть, да записывающий аппарат всё ещё барахлит."
+    },
+    {
+      "en": "There's no power and we're still missing a part. I'm good with machines but even I can't work miracles!",
+      "ru": "Питания нет и детали не хватает. С техникой я на «ты», но чудеса творить не умею!"
+    },
+    {
+      "en": "Nice work on getting most of the band here! Unfortunately I still can’t get this recorder working. If you see any gears out there let me know.",
+      "ru": "Здорово, почти вся группа в сборе! Жаль, что аппарат всё никак не заработает. Найдёшь где-нибудь шестерёнку — скажи мне."
+    },
+    {
+      "en": "Recorder’s looking good! You just need to find that last member of the band and we’re all set.",
+      "ru": "С аппаратом всё в порядке! Осталось найти последнего музыканта, и можно начинать."
+    },
+    {
+      "en": "I’d hate to ruin the moment, but the recorder still isn’t ready. We better find those missing parts and fast.",
+      "ru": "Не хочется портить момент, но аппарат всё ещё не готов. Надо поскорее найти недостающие детали."
+    },
+    {
+      "en": "The recording machine is all set. You ready to rock?",
+      "ru": "К записи всё готово. Ну что, зажжём?"
+    },
+    {
+      "en": "Rock on",
+      "ru": "Зажжём!"
+    },
+    {
+      "en": "No",
+      "ru": "Нет"
+    },
+    {
+      "en": "Right, yeah. Go make sure you're all warmed up. I'll keep checking the equipment.",
+      "ru": "Ага, конечно. Иди разыграйся как следует, а я ещё раз проверю аппаратуру."
+    },
+    {
+      "en": "Play us out little buddy.",
+      "ru": "Ну что, дружок, сыграй напоследок."
+    },
+    {
+      "en": "Another time? Sure. We'll be here.",
+      "ru": "В другой раз? Конечно. Мы никуда не денемся."
+    },
+    {
+      "en": "...Ouch. You wanna try that again?",
+      "ru": "Ох... Хочешь ещё разок?"
+    },
+    {
+      "en": "One more time!",
+      "ru": "Ещё раз!"
+    },
+    {
+      "en": "They spent all that time apart and now... Now they'll never get to reconnect.",
+      "ru": "Они столько времени не виделись, а теперь... Теперь им уже никогда не доведётся снова поговорить."
+    },
+    {
+      "en": "...I should really go find my siblings. It shouldn’t take one of us dying to get back together.",
+      "ru": "...Надо всё-таки найти своих братьев и сестёр. Не ждать же, пока кто-то из нас умрёт, чтобы снова собраться вместе."
+    },
+    {
+      "en": "Thanks for all your help. You really put in the extra mile on this one.",
+      "ru": "Спасибо за помощь. Столько всего пришлось сделать ради нас. Даже не знаю, что бы мы без тебя делали."
+    },
+    {
+      "en": "I found your rocket part in one of those junk piles before the performance. I’ll go set it up for you later. It’s the least I can do after you did all that.",
+      "ru": "Твоя деталь нашлась в куче хлама ещё до выступления. Потом поставлю её на ракету. Это самое малое, чем могу отплатить за твою помощь."
+    },
+    {
+      "en": "Oh, you don’t need to worry about me. I’m just wrapping things up here and then I’m going to meet up with my siblings.",
+      "ru": "Обо мне не волнуйся. Закончу тут и пойду повидаюсь с братьями и сёстрами."
+    },
+    {
+      "en": "I'm hoping nothing falls apart while I'm gone. I need a break from all that maintenance.",
+      "ru": "Надеюсь, без меня тут ничего не развалится. Хочется хоть немного от всех этих поломок отдохнуть."
+    },
+    {
+      "en": "Hey little dude! I got your part set up, but it looks like we're still missing some pieces.",
+      "ru": "Эй, дружок! Твоя деталь уже на месте. Только, похоже, ещё нескольких не хватает."
+    },
+    {
+      "en": "Think I'm just gonna chill here for a bit. Best of luck with the other parts! I know you got this.",
+      "ru": "Я тут пока передохну. Удачи с остальными деталями! Ты справишься, я знаю."
+    },
+    {
+      "en": "Hey welcome to the party little dude! We’re just getting started over here.",
+      "ru": "Эй, дружок, добро пожаловать на вечеринку! У нас тут всё только начинается."
+    },
+    {
+      "en": "For a moment there I feared the worst... But we’re all here. All thriving. And hopefully we’ll keep doing so. I’ll certainly be putting in more effort on my end.",
+      "ru": "Был момент, когда мне стало страшно за всех... Но мы здесь. И у всех всё хорошо. Надеюсь, так будет и дальше. Уж я постараюсь чаще с ними видеться."
+    },
+    {
+      "en": "Sad to see you go so soon, but I know you’ll do great things. Go show those circus elitists what real music sounds like.",
+      "ru": "Жаль, что ты так скоро уходишь, но тебя ждут большие дела. Покажи этим цирковым снобам, как звучит настоящая музыка."
+    },
+    {
+      "en": "Hey, no paparazzi. I’m retired. Scram!",
+      "ru": "Эй, папарацци здесь делать нечего! Я на пенсии. Брысь!"
+    },
+    {
+      "en": "Go away, I’m not giving any more interviews.",
+      "ru": "Уходи, интервью больше не даю."
+    },
+    {
+      "en": "Oh, Jaz sent you? Let me guess: They want me to get the band back together.",
+      "ru": "А, ты от Джаз? Дай угадаю. Опять речь о том, чтобы я собрал группу?"
+    },
+    {
+      "en": "Ugh. It’s not even that I’m totally against the idea but- I’ve got no idea where any of them even are anymore!",
+      "ru": "Ух. Я вроде и не против, но... Откуда мне знать, где теперь хоть кто-нибудь из них?"
+    },
+    {
+      "en": "And I don’t even have my cymbals ever since that two-faced Weevilton stole them! In fact, I won’t even think about doing a reunion set unless you can get them back from him.",
+      "ru": "И тарелок у меня нет. Их стащил этот двуличный Уивилтон! Пока ты их у него не заберёшь, я об общем концерте даже думать не стану."
+    },
+    {
+      "en": "Here, take this. You’ll need it to even reach the guy. Be careful when you get there. That <w>stuff</w> made him act crazy. Who knows what he’s been up to since our breakup.",
+      "ru": "Держи, иначе до него не доберёшься. И осторожнее: от этой <w>дряни</w> он с катушек слетел. Кто знает, что он творил после нашего разрыва."
+    },
+    {
+      "en": "I’m not moving from this spot until you get me my cymbals back. Go bug Weevilton about it. He keeps his stash up in the cliffs.",
+      "ru": "Пока мои тарелки не будут у меня, я с места не сдвинусь. Потряси Уивилтона. У него тайник на скалах."
+    },
+    {
+      "en": "No way... You actually got them. I never thought the day would come...",
+      "ru": "Да ладно... Неужели это они? Не думал, что доживу до этого дня..."
+    },
+    {
+      "en": "Well, a deals a deal. I’ll go tell Jaz the band is back on.",
+      "ru": "Ну, уговор есть уговор. Пойду скажу Джаз, что группа снова в деле."
+    },
+    {
+      "en": "And uh, thanks. I guess.",
+      "ru": "И, э-э... Спасибо. Наверное."
+    },
+    {
+      "en": "I'll see you at the stage. Weevilton too... we'll have some talking to do.",
+      "ru": "Увидимся у сцены. И с Уивилтоном тоже. Нам есть о чём поговорить..."
+    },
+    {
+      "en": "I never expected it, but Weevilton actually apologized to me. And somehow, I found it in my heart to forgive him. Guess I missed my best friend too much. ",
+      "ru": "Кто бы мог подумать? Уивилтон и правда извинился. А я, как ни странно, смог его простить. Видать, очень уж соскучился по лучшему другу."
+    },
+    {
+      "en": "It's actually kind of exciting to be back here on the stage. We just need Scuttlesby and John and we'll have the whole band again.",
+      "ru": "А вернуться на сцену, оказывается, здорово. Осталось найти Скаттлсби и Джона, и группа снова в сборе."
+    },
+    {
+      "en": "Last I heard from Scuttlesby, he was heading West. You could try looking there.",
+      "ru": "Когда я в последний раз говорил со Скаттлсби, он собирался на запад. Попробуй поискать там."
+    },
+    {
+      "en": "Well, you got three of us. But the last guy... John... He can be a little elusive. He gave me these cryptic instructions on how to reach his place in the tunnels.",
+      "ru": "Ну, трое из нас уже в сборе. А вот четвёртый... Джон... Его так просто не найдёшь. Он дал мне какие-то загадочные указания, как добраться до его дома в тоннелях."
+    },
+    {
+      "en": "Apparently he has some crazy protective pet guarding his place, it’ll only let you through if you bring it a treat.",
+      "ru": "У него там, похоже, какой-то бешеный зверь на страже. Без угощения не пропустит."
+    },
+    {
+      "en": "Luckily, I’ve got one on hand. He gave it to me, in case I ever wanted to visit.",
+      "ru": "Повезло, у меня как раз есть угощение. Джон сам дал на случай, если я к нему загляну."
+    },
+    {
+      "en": "Have you found John yet? He said his place was somewhere underground. Remember to bring the Dog Treat I gave you, to appease his guard animal.",
+      "ru": "Ну как там Джон? Он говорил, что живёт где-то под землёй. Захвати собачье лакомство, которое я тебе дал. Им задобришь сторожа."
+    },
+    {
+      "en": "So? Did you find John?",
+      "ru": "Ну что, удалось найти Джона?"
+    },
+    {
+      "en": "Dead Beetle Sorry",
+      "ru": "Жук мёртв. Прости."
+    },
+    {
+      "en": "Oh.",
+      "ru": "А."
+    },
+    {
+      "en": "We really did just waste so much time fighting over nothing. And look where it got us.",
+      "ru": "Столько времени грызлись из-за пустяков. И вот до чего дошло."
+    },
+    {
+      "en": "Go check with Jaz when you’re ready. I want to make sure their equipment is in top shape for this.",
+      "ru": "Как будешь наготове, зайди к Джаз. Хочу, чтобы к выступлению аппаратура была в полном порядке."
+    },
+    {
+      "en": "That was... Cathartic.",
+      "ru": "Ух... Прямо камень с души."
+    },
+    {
+      "en": "Hoped you liked it, old friend.",
+      "ru": "Надеюсь, тебе понравилось, старина."
+    },
+    {
+      "en": "Woah, you made the whole trek out here? You must be one dedicated fan to do that! Here, let me sign something for you-",
+      "ru": "Ого, столько всего пришлось пройти, чтобы сюда попасть? Вот это преданность! Давай автограф дам..."
+    },
+    {
+      "en": "Beetles together friends",
+      "ru": "Жуки. Вместе. Друзья."
+    },
+    {
+      "en": "Get the band back together? Oh no no, I couldn’t. I mean, look at this wall! My beautiful collection!",
+      "ru": "Снова собрать группу? Нет-нет-нет, никак не могу. Ты только посмотри на эту стену! Моя прекрасная коллекция!"
+    },
+    {
+      "en": "I almost have every button I’d ever need mounted on this wall. What a tapestry! So much better than that silly music stuff I was doing before.",
+      "ru": "На стене уже почти все пуговицы, какие я только мог пожелать. Ну и панно! Куда лучше всей той ерунды с музыкой, которой я раньше занимался."
+    },
+    {
+      "en": "I can’t just stop now! Not when my collection is almost complete!",
+      "ru": "Я не могу сейчас бросить! Ещё чуть-чуть, и коллекция будет полной!"
+    },
+    {
+      "en": "Now, if you could find me those last three buttons that would be a different story but... Doesn’t look like you have anything to offer on that front. ",
+      "ru": "Вот если бы удалось найти для меня три последние пуговицы, тогда другое дело. Но у тебя, гляжу, с пуговицами негусто."
+    },
+    {
+      "en": "Ahh buttons... Precious buttons... You’re all I’ll ever need in this life. All my hopes and dreams, right here...",
+      "ru": "Ах, пуговицы... Драгоценные мои пуговицы... Больше мне в жизни ничего и не надо. Все мои надежды и мечты — вот они..."
+    },
+    {
+      "en": "Do you mind? We’re having a private moment here.",
+      "ru": "Можешь нас оставить? Нам вообще-то нужно побыть наедине."
+    },
+    {
+      "en": "Yes- yes! My collection is complete! It’s so- It’s so-",
+      "ru": "Да! Да! Коллекция собрана! Это же... Это же..."
+    },
+    {
+      "en": "LAME! I gave up years of my life for this?!",
+      "ru": "ОТСТОЙ! Я на это годы жизни угробил?!"
+    },
+    {
+      "en": "<w>Ohhhhhhhhh NO!</w> I gotta go apologize to some people. I gotta go return those cymbals!",
+      "ru": "<w>О-о-о, НЕ-Е-ЕТ!</w> Мне же надо кое перед кем извиниться! И тарелки вернуть!"
+    },
+    {
+      "en": "On second thought... Maybe you should do that. I think I’d just get yelled at. Can you give this back to Dungsworth?",
+      "ru": "Хотя... Может, лучше ты? На меня, скорее всего, только наорут. Отнесёшь её Дангсворту?"
+    },
+    {
+      "en": "I’ll be waiting at the stage for our reunion tour.",
+      "ru": "Буду ждать у сцены. Первый концерт после воссоединения!"
+    },
+    {
+      "en": "Tell Dungsworth I'm sorry about the cymbal, and I'll see him at the stage.",
+      "ru": "Извинись за меня перед Дангсвортом за тарелку. И скажи, что я буду у сцены."
+    },
+    {
+      "en": "Now I may not be the brightest bulb, but I don’t think we’re up to four yet. Our songs will not sound good with anything less, trust me.",
+      "ru": "Я, может, и не семи пядей во лбу, но четверых тут пока не насчитаешь. В меньшем составе наши песни не зазвучат, уж поверь."
+    },
+    {
+      "en": "Man, this music thing is great! Can’t believe I ever stopped. Too bad it took... this... to get us back together.",
+      "ru": "Блин, до чего же здорово играть! Не верится, что я когда-то бросил. Жаль, что понадобилось... вот это всё, чтобы мы снова собрались."
+    },
+    {
+      "en": "You know, I think we can make this work as a trio. Would take some effort but, well I’d rather not go back to collecting buttons, you feel me?",
+      "ru": "Знаешь, втроём мы тоже могли бы сыграться. Придётся попотеть, но я на всё согласен, лишь бы не вернуться к пуговицам. Понимаешь?"
+    },
+    {
+      "en": "No, no. You need food for his pet. Or it’ll tear you to pieces or something. I don’t know I wasn’t really paying all that much attention while he was explaining it.",
+      "ru": "Нет-нет. Зверю надо принести еды. А то он тебя на куски порвёт или ещё чего. Я не особо слушал, пока Джон это объяснял."
+    },
+    {
+      "en": "Anyways I do have its favorite food if you want to give it a shot. Try this!",
+      "ru": "В общем, его любимая еда у меня есть. Если хочешь попытаться, держи!"
+    },
+    {
+      "en": "Raw Bug Steak! Juicy and delicious!",
+      "ru": "Сырой стейк из жука! Сочный, пальчики оближешь!"
+    },
+    {
+      "en": "Now you just gotta find John. Remember to bring that Bug Steak to feed to his carnivorous guardian.",
+      "ru": "Осталось найти Джона. Не забудь прихватить стейк из жука для его хищного сторожа."
+    },
+    {
+      "en": "What? He's dead? How? Why?",
+      "ru": "Что? Он умер? Как? Почему?"
+    },
+    {
+      "en": "I knew I should have visited. I was just so distracted...",
+      "ru": "Надо было всё-таки зайти к нему. Всё какие-то дела, дела..."
+    },
+    {
+      "en": "Once Jaz gets the recording machine up and running, we'll perform. For John.",
+      "ru": "Как только Джаз наладит звукозапись, мы выступим. Для Джона."
+    },
+    {
+      "en": "HEY!! OVER HERE!! Please! You have to get me out of here- That guy- he’s crazy!! I’ve been stuck in here for ages.",
+      "ru": "ЭЙ! СЮДА! Пожалуйста, вытащи меня отсюда! Этот тип... Он псих! Я тут целую вечность торчу."
+    },
+    {
+      "en": "That lock- It has some weird code to it. I can’t figure it out. But you- You have to do it. Help me!! Please!!",
+      "ru": "На замке какой-то хитрый код. Я никак не разберусь. Но ты... У тебя должно получиться! Помоги! Пожалуйста!"
+    },
+    {
+      "en": "The code has to be around here somewhere. Keep looking!",
+      "ru": "Код должен быть где-то поблизости. Поищи ещё!"
+    },
+    {
+      "en": "Did you find the code?",
+      "ru": "Есть код?"
+    },
+    {
+      "en": "Freedom!!! I can breathe fresh air! I can feel the sun! I can-",
+      "ru": "Свобода!!! Свежий воздух! Солнце! Теперь я могу..."
+    },
+    {
+      "en": "You band now",
+      "ru": "Ты. Снова в группе."
+    },
+    {
+      "en": "What? You want me to rejoin the band? Sure. I'll play for a million years if it means I never have to see these walls again!",
+      "ru": "Что? Вернуться в группу? Да хоть миллион лет буду играть, лишь бы больше этих стен не видеть!"
+    },
+    {
+      "en": "I'm getting out of here. See you at the stage!",
+      "ru": "Я отсюда бегу. Увидимся у сцены!"
+    },
+    {
+      "en": "Ahh look at that beautiful Below World sky...",
+      "ru": "Ах, до чего же красивое небо в Нижнем мире..."
+    },
+    {
+      "en": "Hm? No, we're not playing yet. Still need some more band members methinks.",
+      "ru": "М? Нет, мы ещё не играем. Сдаётся мне, нам ещё музыкантов не хватает."
+    },
+    {
+      "en": "Don't listen to those guys, they don't know what they're talking about.",
+      "ru": "Не слушай этих двоих. Сами не знают, что говорят."
+    },
+    {
+      "en": "Our missing bandmate had this sweet old pet, apparently. But it’ll only let you pass if you bring a pacifier to calm it down.",
+      "ru": "У нашего пропавшего товарища, оказывается, был славный старенький питомец. Успокой его пустышкой, и он тебя пропустит."
+    },
+    {
+      "en": "Here, he gave me one himself! I have no idea what those two are on about.",
+      "ru": "Вот, он сам мне её дал! Ума не приложу, о чём те двое толкуют."
+    },
+    {
+      "en": "John's in the caves. Go grab him and run right back.",
+      "ru": "Джон в пещерах. Забери его и сразу назад."
+    },
+    {
+      "en": "And don't listen to those other two. His pet's nothing to be scared of. All it needs is a pacifier and it'll be out like a light.",
+      "ru": "И этих двоих не слушай. Его зверюшку бояться нечего. Дай ей пустышку, и она тут же уснёт."
+    },
+    {
+      "en": "Wooo! I could keep doing this forever! This is what life is all about.",
+      "ru": "У-у-у! Вот так бы и играть без конца! Вот ради чего стоит жить."
+    },
+    {
+      "en": "Poor John. Wish I could've seen him one last time...",
+      "ru": "Бедный Джон. Хоть бы ещё разок с ним повидаться..."
+    },
+    {
+      "en": "But I'm going to do enough living for the both of us! You've given me a new lease on life, little clown. I'm not going to waste it!",
+      "ru": "Зато теперь я буду жить за нас обоих! Благодаря тебе, клоунишка, я словно заново родился. И теперь ни дня зря не потрачу!"
+    },
+    {
+      "en": "To think we all had the keys with us the whole time. If only we had come together sooner...",
+      "ru": "Подумать только, ключи всё это время были у нас. Если бы мы собрались раньше..."
+    },
+    {
+      "en": "And you, little clown. You were the only one of us to pay him a visit.",
+      "ru": "И только ты, клоунишка, всё-таки его навестил."
+    },
+    {
+      "en": "You alone got us back together. It calls for a performance. It’s what John would have wanted, I think. All of us together, a song in his honor.",
+      "ru": "Только благодаря тебе мы снова вместе. Тут надо сыграть. Думаю, Джон бы этого хотел. Чтобы мы собрались и сыграли песню в его честь."
+    },
+    {
+      "en": "Though, we’ll need a fourth. Think you could fill in? Just for this.",
+      "ru": "Только нам нужен четвёртый музыкант. Сможешь сыграть за него? Всего одну песню."
+    },
+    {
+      "en": "Poco horn good",
+      "ru": "Поко. Труба. Хорошо."
+    },
+    {
+      "en": "Good. Go tell Jaz we're ready to perform, and we'll get started.",
+      "ru": "Хорошо. Передай Джаз, что мы готовы выступать. И начнём."
+    },
+    {
+      "en": "Go tell Jaz it's time to record a song. As soon as the machine is ready, we'll begin.",
+      "ru": "Передай Джаз, что пора записывать песню. Как только аппарат будет готов, начнём."
+    },
+    {
+      "en": "Oh honey! What happened to you?!",
+      "ru": "Ой, милый! Что с тобой случилось?!"
+    },
+    {
+      "en": "My husband... he's... Oh it's just too awful to say!",
+      "ru": "Мой муж... он... Ох, даже сказать страшно!"
+    },
+    {
+      "en": "What am I supposed to tell the kids? That their father is a dog now?! Scandalous! ",
+      "ru": "Что я детям скажу? Что их папа теперь собака?! Какой позор!"
+    },
+    {
+      "en": "Stay back! This is a crime scene here. I won't have any of you... <w>clowns</w> messing it up.",
+      "ru": "Назад! Здесь место преступления. Ещё не хватало, чтобы тут всякие... <w>клоуны</w> натоптали."
+    },
+    {
+      "en": "Let this be a lesson for what dealing with that circus gets you. Poor man is trying to live his life and then- BAM! He gets tied into a balloon.",
+      "ru": "Вот до чего доводят дела с этим цирком. Живёт себе человек, никого не трогает, а тут - БАЦ! Его завязали узлом, как шарик."
+    },
+    {
+      "en": "This family will never be the same again, and who do we hold responsible? The circus in the sky? They never care about what happens to the working folk down here!",
+      "ru": "Эта семья уже никогда не будет прежней. И кто за это ответит? Цирк в небе? Да им плевать на простых работяг внизу!"
+    },
+    {
+      "en": "All Clowns Are Bozos",
+      "ru": "Все клоуны — болваны."
+    },
+    {
+      "en": "Heh. Damn right.",
+      "ru": "Хех. Чертовски верно."
+    },
+    {
+      "en": "Its a tragedy, what happened here. Whoever did this must have one sick, twisted mind.",
+      "ru": "Вот ведь трагедия. Какая больная фантазия у того, кто это сотворил."
+    },
+    {
+      "en": "Dead",
+      "ru": "Мёртв."
+    },
+    {
+      "en": "Hi there! Welcome to the Poco demo. This serves as a vertical slice of the game. On release, this area will play a bit differently :)",
+      "ru": "Привет! Добро пожаловать в демоверсию Poco. Здесь можно попробовать небольшой, но уже играбельный фрагмент. В полной игре эта локация будет устроена немного иначе :)"
+    },
+    {
+      "en": "Feel free to click around and navigate these screens. You can try to make magenta and cyan pigment or just enjoy wandering around.",
+      "ru": "Щёлкай мышью и осматривайся. Можешь попробовать сделать пурпурный и голубой пигменты, а можешь просто побродить."
+    },
+    {
+      "en": "Have fun!",
+      "ru": "Приятной игры!"
+    },
+    {
+      "en": "<w>Sniiiiiiiiiiiiiiiiiiiiif</w> ...Did you need something?",
+      "ru": "<w>Шмы-ы-ы-ыг</w> ...Тебе что-то нужно?"
+    },
+    {
+      "en": "What should I do?",
+      "ru": "Что мне делать?"
+    },
+    {
+      "en": "Who are you?",
+      "ru": "Ты кто?"
+    },
+    {
+      "en": "Just chatting...",
+      "ru": "Просто поболтать..."
+    },
+    {
+      "en": "help me pls",
+      "ru": "Помоги, пожалуйста."
+    },
+    {
+      "en": "You’re playing the Poco demo! Click the screen to navigate and interact with things. You can solve some light puzzles to make magenta and cyan pigment.",
+      "ru": "Это демоверсия Poco! Нажимай на экран, чтобы ходить и взаимодействовать с предметами. Решишь пару простых загадок — получишь пурпурный и голубой пигменты."
+    },
+    {
+      "en": "I know my magenta blossom is growing in the garden over there, but I think it needs some more fertilizer before it blooms.",
+      "ru": "Там, в саду, растёт мой пурпурный цветок. По-моему, его надо ещё немного удобрить, и тогда он зацветёт."
+    },
+    {
+      "en": "And there should be some cyan berries around here somewhere...",
+      "ru": "И где-то поблизости должны быть голубые ягоды..."
+    },
+    {
+      "en": "Keep looking around, I’m sure you’ll figure it out!",
+      "ru": "Осмотрись как следует. Уверена, ты разберёшься!"
+    },
+    {
+      "en": "who you",
+      "ru": "Ты кто?"
+    },
+    {
+      "en": "I’m Nari, the homunculus representing the sense of smell. (I’m also one of the dev's favorites, but don’t tell anyone that) ",
+      "ru": "Я Нари, гомункул обоняния. (А ещё я одна из любимиц разработчика. Только никому ни слова.)"
+    },
+    {
+      "en": "I might act a bit differently in the final game, so I’m glad we can talk now.",
+      "ru": "В полной игре я, может, буду вести себя немного иначе. Здорово, что мы можем поболтать сейчас."
+    },
+    {
+      "en": "You’ll also get to meet my siblings in the full game! I miss them...",
+      "ru": "А ещё в полной игре ты познакомишься с моими братьями и сёстрами! Я по ним скучаю..."
+    },
+    {
+      "en": "friend hang out",
+      "ru": "Друг. Побыть вместе."
+    },
+    {
+      "en": "Oh? You just wanted to hang out? Okay.",
+      "ru": "О? Просто хочешь посидеть вместе? Ладно."
+    },
+    {
+      "en": "...So how are you liking SHMCon so far?",
+      "ru": "...Ну, как тебе SHMCon?"
+    },
+    {
+      "en": "Okey dokey. Talk to me again if you need any help.",
+      "ru": "Ладушки. Если нужна помощь, подходи."
+    },
+    {
+      "en": "Congratulations, you made both Cyan and Magenta pigment!",
+      "ru": "Поздравляю! У тебя получились оба пигмента: и голубой, и пурпурный!"
+    },
+    {
+      "en": "That was basically the most you can do in this super simple demo. Did you like it? Hate it? Let us know!",
+      "ru": "Ну, вот и почти всё, что можно сделать в этой простенькой демоверсии. Понравилось? Или совсем не зашло? Расскажи нам!"
+    },
+    {
+      "en": "I promise, the final game will be a lot more interesting.",
+      "ru": "Обещаю, полная игра будет куда интереснее."
+    },
+    {
+      "en": "There is a beetle here that says they're addicted to collecting buttons and will rejoin the band if you can find and place all 3 missing buttons for them.",
+      "ru": "Местный жук говорит, что помешан на пуговицах. Он вернётся в группу, если удастся найти все три недостающие пуговицы и прикрепить их на свои места."
+    },
+    {
+      "en": "The beetle thanks you for finding all the buttons and completing their collection.",
+      "ru": "Жук благодарит тебя за помощь с последними пуговицами. Коллекция наконец-то собрана."
+    },
+    {
+      "en": "They rejoice, but then suddenly feel as if this whole collection was for nothing.",
+      "ru": "Жук ликует, а потом вдруг понимает, что вся эта коллекция того не стоила."
+    },
+    {
+      "en": "They give you the drummer's cymbal, which they have converted into a button.",
+      "ru": "Жук отдаёт тебе тарелку барабанщика, которую переделал в пуговицу."
+    },
+    {
+      "en": "They say they will meet you back at Jaz's place.",
+      "ru": "Жук говорит, что встретится с тобой у Джаз."
+    },
+    {
+      "en": "They remind you that they'll meet you at Jaz's place.",
+      "ru": "Жук напоминает, что вы встретитесь у Джаз."
+    },
+    {
+      "en": "There is a beetle here that calls you a paparazzi and tells you to go away.",
+      "ru": "Здешний жук принимает тебя за папарацци и велит уйти."
+    },
+    {
+      "en": "The beetle talks to you now that you say that Jaz sent you.",
+      "ru": "Услышав, что тебя послали от Джаз, жук соглашается поговорить."
+    },
+    {
+      "en": "The beetle tells you that they'll rejoin the band if you get their cymbal back from another band member in the North.",
+      "ru": "Жук вернётся в группу, если ты заберёшь его тарелку у другого музыканта на севере."
+    },
+    {
+      "en": "They give you some rope and tell you you'll need it to get to the other beetle's place.",
+      "ru": "Жук даёт тебе верёвку. Без неё до другого музыканта не добраться."
+    },
+    {
+      "en": "The drummer beetle reminds you that their cymbal-thieving former bandmate lives in the distant northeast.",
+      "ru": "Жук-барабанщик напоминает, что его бывший товарищ по группе, укравший тарелку, живёт далеко на северо-востоке."
+    },
+    {
+      "en": "You give the drummer beetle their cymbal.",
+      "ru": "Ты возвращаешь жуку-барабанщику его тарелку."
+    },
+    {
+      "en": "They thank you and say they will meet you at Jaz's place.",
+      "ru": "Жук благодарит тебя и говорит, что встретится с тобой у Джаз."
+    },
+    {
+      "en": "There's a beetle trapped in this cage that begs you to help them to get out, telling you to open the lock.",
+      "ru": "В клетке заперт жук. Он умоляет открыть замок и выпустить его."
+    },
+    {
+      "en": "The cage opens and the beetle leaps out and runs away, telling you they'll meet you at Jaz's place.",
+      "ru": "Клетка открывается. Жук выскакивает и убегает, крикнув, что вы ещё встретитесь у Джаз."
+    },
+    {
+      "en": "The cage is empty, the beetle has been freed.",
+      "ru": "Клетка пуста. Жук на свободе."
+    },
+    {
+      "en": "You meet Gripp here and he tells you he lost the keys to his precious vaults around the world.",
+      "ru": "Здесь ты встречаешь Гриппа. Он рассказывает, что растерял ключи от своих заветных хранилищ в разных концах света."
+    },
+    {
+      "en": "Now he's trapped in his hoard and needs a way out.",
+      "ru": "Теперь он заперт в собственной сокровищнице. Надо найти выход."
+    },
+    {
+      "en": "Gripp takes the axe and breaks down the door to the East.",
+      "ru": "Грипп берёт топорик и выламывает восточную дверь."
+    },
+    {
+      "en": "You meet Ojet here, and he tells you he wants Red, Green, and Blue paint.",
+      "ru": "Здесь ты встречаешь Оджета. Ему нужны красная, зелёная и синяя краски."
+    },
+    {
+      "en": "Ojet takes the red paint.",
+      "ru": "Оджет берёт красную краску."
+    },
+    {
+      "en": "Then he takes the blue paint.",
+      "ru": "Потом берёт синюю."
+    },
+    {
+      "en": "Then he takes the green paint.",
+      "ru": "И наконец зелёную."
+    },
+    {
+      "en": "He gives you the Rocket Thruster as thanks for the paint.",
+      "ru": "За краски Оджет отдаёт тебе двигатель ракеты."
+    },
+    {
+      "en": "He thanks you, and says he'll meet at the launchpad.",
+      "ru": "Оджет благодарит тебя и обещает встретиться на стартовой площадке."
+    },
+    {
+      "en": "He reminds you that he'll see you at the launchpad.",
+      "ru": "Оджет напоминает, что вы увидитесь на стартовой площадке."
+    },
+    {
+      "en": "You meet Jaz, and they tell you they want you to get their favorite band back together to record one more song.",
+      "ru": "Ты встречаешь Джаз. Джаз просит снова собрать любимую группу, чтобы записать ещё одну песню."
+    },
+    {
+      "en": "To do so, you will need a cog to fix the machine, a power source to run it, and all four band members.",
+      "ru": "Для этого тебе понадобятся шестерёнка для ремонта аппарата, источник питания и все четверо музыкантов."
+    },
+    {
+      "en": "They tell you to start looking for the drummer somewhere West of here.",
+      "ru": "Джаз советует первым делом поискать барабанщика к западу отсюда."
+    },
+    {
+      "en": "Jaz tells you you need to find a replacement cog, a power source, and all 4 band members.",
+      "ru": "Джаз говорит, что нужно найти шестерёнку взамен сломанной, источник питания и всех четверых музыкантов."
+    },
+    {
+      "en": "Jaz thanks you for playing the song and gives you a Rocket Tip.",
+      "ru": "Джаз благодарит тебя за песню и отдаёт нос ракеты."
+    },
+    {
+      "en": "They say they will meet you back at the launchpad.",
+      "ru": "Джаз обещает встретиться с тобой на стартовой площадке."
+    },
+    {
+      "en": "There are less than 4 Beetles here now. You still have more to find.",
+      "ru": "Здесь ещё не все четверо жуков. Продолжай поиски."
+    },
+    {
+      "en": "You talk to the beetles for a clue on where to find the last one. They tell you he's somewhere in a cave guarded by an animal.",
+      "ru": "Ты спрашиваешь жуков, где искать последнего музыканта. Они говорят, что он в одной из пещер и что вход сторожит зверь."
+    },
+    {
+      "en": "One gives you a pacifier to relax the guard animal.",
+      "ru": "Один из них даёт тебе пустышку, чтобы успокоить зверя."
+    },
+    {
+      "en": "One gives you a steak to feed it.",
+      "ru": "Другой даёт тебе стейк, чтобы его накормить."
+    },
+    {
+      "en": "And the last one gives you a Dog Treat to satisfy it.",
+      "ru": "А третий даёт собачье лакомство, чтобы его задобрить."
+    },
+    {
+      "en": "They can't agree on which is the correct item to use.",
+      "ru": "Они никак не договорятся, чем лучше задобрить зверя."
+    },
+    {
+      "en": "You tell the beetles that you found their fourth member dead in his cave.",
+      "ru": "Ты рассказываешь жукам, что в пещере нашлось тело четвёртого музыканта."
+    },
+    {
+      "en": "The beetles are saddened but ask that you play his favorite song in his honor with them.",
+      "ru": "Жуки скорбят. Они просят тебя сыграть с ними любимую песню Джона в память о нём."
+    },
+    {
+      "en": "You can't play the song yet because the machine is still broken and/or not plugged in.",
+      "ru": "Пока сыграть не получится. Сначала нужно починить аппарат и подать питание."
+    },
+    {
+      "en": "The machine is fixed and the beetles are ready to perform.",
+      "ru": "Аппарат починен. Жуки готовы выступать."
+    },
+    {
+      "en": "You meet Gultch, and she tells you she wants a fish dinner, grilled in carrots and beetle milk.",
+      "ru": "Ты встречаешь Галч. Ей хочется поужинать рыбой, приготовленной на гриле с морковью и жучьим молоком."
+    },
+    {
+      "en": "You give Gultch the Cooked Fish Dinner, and she eats it happily.",
+      "ru": "Ты угощаешь Галч жареной рыбой, и она с удовольствием её съедает."
+    },
+    {
+      "en": "She thanks you and gives you the Rocket Hull.",
+      "ru": "Она благодарит тебя и отдаёт корпус ракеты."
+    },
+    {
+      "en": "She says she will meet you at the launchpad to see you off.",
+      "ru": "Она обещает прийти на стартовую площадку, чтобы проводить тебя."
+    },
+    {
+      "en": "The grill needs fuel: something flammable.",
+      "ru": "Для гриля нужно что-нибудь горючее."
+    },
+    {
+      "en": "The grill needs to be lit. You need something to start a fire.",
+      "ru": "Гриль нужно разжечь. Поищи, чем развести огонь."
+    },
+    {
+      "en": "You need a pan to cook this meal.",
+      "ru": "Чтобы приготовить это блюдо, нужна сковородка."
+    },
+    {
+      "en": "You throw the ingredients in the Pan and get cooking.",
+      "ru": "Ты выкладываешь продукты на сковородку и принимаешься готовить."
+    },
+    {
+      "en": "You are missing one or more ingredients.",
+      "ru": "Для блюда не хватает продуктов."
+    }
+  ],
+  "ui": [
+    {
+      "en": "Start",
+      "ru": "Начать"
+    },
+    {
+      "en": "Resolution",
+      "ru": "<size=85%>Разрешение</size>"
+    },
+    {
+      "en": "Quit to Menu\n",
+      "ru": "Выйти в меню\n"
+    },
+    {
+      "en": "Navigate",
+      "ru": "Перемещение"
+    },
+    {
+      "en": "Volume",
+      "ru": "Громкость"
+    },
+    {
+      "en": "Okay",
+      "ru": "Понятно"
+    },
+    {
+      "en": "Fullscreen",
+      "ru": "<size=85%><nobr>Весь экран</nobr></size>"
+    },
+    {
+      "en": "Text Crawl Enabled",
+      "ru": "Текст по буквам"
+    },
+    {
+      "en": "Quit",
+      "ru": "Выход"
+    },
+    {
+      "en": "Continue Game",
+      "ru": "Продолжить"
+    },
+    {
+      "en": "You can donate to us on Ko-fi at:\nko-fi.com/whalefallgames",
+      "ru": "Поддержать нас можно на Ko-fi:\nko-fi.com/whalefallgames"
+    },
+    {
+      "en": "Inventory Empty",
+      "ru": "Инвентарь пуст"
+    },
+    {
+      "en": "Ojet",
+      "ru": "Оджет"
+    },
+    {
+      "en": "Poco",
+      "ru": "Поко"
+    },
+    {
+      "en": "Cursor Help",
+      "ru": "Подсказки"
+    },
+    {
+      "en": "Nari",
+      "ru": "Нари"
+    },
+    {
+      "en": "Nari\n",
+      "ru": "Нари\n"
+    },
+    {
+      "en": "Gultch",
+      "ru": "Галч"
+    },
+    {
+      "en": "Gripp",
+      "ru": "Грипп"
+    },
+    {
+      "en": "Lefty",
+      "ru": "Левша"
+    },
+    {
+      "en": "Jaz",
+      "ru": "Джаз"
+    },
+    {
+      "en": "Are you sure you want to start a new game?\nYou will lose all your current progress.",
+      "ru": "Начать новую игру?\nТекущий прогресс будет потерян."
+    },
+    {
+      "en": "Open In Browser",
+      "ru": "Открыть в браузере"
+    },
+    {
+      "en": "No, Cancel",
+      "ru": "Отмена"
+    },
+    {
+      "en": "Poco Response Enabled",
+      "ru": "Ответы Поко"
+    },
+    {
+      "en": "Cursor",
+      "ru": "Курсор"
+    },
+    {
+      "en": "Interact",
+      "ru": "Взаимодействие"
+    },
+    {
+      "en": "Done",
+      "ru": "Готово"
+    },
+    {
+      "en": "Back",
+      "ru": "Назад"
+    },
+    {
+      "en": "Quit to Desktop",
+      "ru": "Выйти из игры"
+    },
+    {
+      "en": "Reset",
+      "ru": "Сбросить"
+    },
+    {
+      "en": "Travel",
+      "ru": "Перейти"
+    },
+    {
+      "en": "Yes, Start",
+      "ru": "Да, начать"
+    },
+    {
+      "en": "Start New Game",
+      "ru": "Новая игра"
+    },
+    {
+      "en": "Settings",
+      "ru": "Настройки"
+    },
+    {
+      "en": "Donate",
+      "ru": "Поддержать"
+    },
+    {
+      "en": "Always Run",
+      "ru": "Всегда бегать"
+    },
+    {
+      "en": "Dialogue",
+      "ru": "Диалоги"
+    },
+    {
+      "en": "Talk",
+      "ru": "Поговорить"
+    },
+    {
+      "en": "<b>Click</b> on Poco, Press <b>Esc</b>, or <b>Right Click</b> to Open Menu",
+      "ru": "<b>Щёлкните</b> по Поко, нажмите <b>Esc</b> или <b>правую кнопку мыши</b>, чтобы открыть меню"
+    },
+    {
+      "en": "Choose an Item to Use...",
+      "ru": "Выберите предмет"
+    },
+    {
+      "en": "Choose an Item to Insert...",
+      "ru": "Выберите, что вставить"
+    },
+    {
+      "en": "Insert Item",
+      "ru": "Вставить предмет"
+    },
+    {
+      "en": "Inventory",
+      "ru": "Инвентарь"
+    },
+    {
+      "en": "Button",
+      "ru": "Кнопка"
+    },
+    {
+      "en": "DIRECTOR\r\nMicah Boursier\r\n\r\nPRODUCER\r\nAsher Camilleri\r\n\r\nPRODUCTION ASSISTANT\r\nFrancesca Jassir\r\n\r\nCORE TEAM\r\nMicah Boursier\r\nAsher Camilleri\r\nFrancesca Jassir\r\nKamala Roberts\r\nMegan Keene\r\nSebastian Panozo\r\nMax Stone\r\nGiselle Yang\r\n\r\nVISUAL DEVELOPMENT LEAD\r\nKamala Roberts\r\nVISUAL DEVELOPMENT ARTISTS\r\nCore Team\nPAINTERS\r\nMegan Keene\r\nSebastian Panozo\r\nMicah Boursier\r\nGiselle Yang\r\nMax Stone\r\n\r\nSTORY LEAD\r\nAsher Camilleri\r\n\r\nANIMATION LEAD\r\nMax Stone\r\nANIMATORS\r\nFrancesca Jassir\r\nMicah Boursier\r\n\r\nMODELING LEAD\r\nGiselle Yang\r\nMODELER\r\nKamala Roberts\r\n\r\nRIGGING LEAD\r\nMax Stone\r\nRIGGING ARTIST\r\nGiselle Yang\r\nMicah Boursier\r\n\r\nPROGRAMMER\r\nMicah Boursier\r\n\r\nSOUND DESIGN\r\nMicah Boursier\r\nMax Stone\r\n\r\nMUSIC\r\nMiguel Arada\r\nTaylor Baum\r\n\r\nVOICE ACTORS\r\nPoco - Bike Horn\r\nGripp - Max Stone\r\nNari - Ally McClaine\r\nOjet - Micah Boursier\r\nGultch - Giselle Yang\r\nJaz - Max Stone\r\nFisherman - Jesse O’bird\r\nDungsworth - Max Stone\r\nScuttlesby - Joe Schwall\r\nWeevilton - Ally McClaine\r\nWorm - Joe Schwall\r\nWorm Widow - Giselle Yang\r\nWorm Cop - Joe Schwall\r\nMaggot - Max Stone\r\n\r\nSOCIAL MEDIA MANAGER\r\nFrancesca Jassir\r\n\r\n—\r\n\r\nVOLUNTEERS\r\n\r\nSOCIAL MEDIA COORDINATOR\r\nNatalie Wu\r\n\r\nANIMATORS\r\nCammy Tan\r\nDaniel Nimori\r\nReese Parungao\r\nTessa Carter\r\nZhiyi Lin\r\nNolan Pauls\r\nNico Snow\r\nJimmy Nguyen\r\nHae Sung Choi\r\n\r\nBACKGROUND PAINTERS\r\nAlyssa Anderson\r\nAni Saracen\r\nCammy Tan\r\nCorrin Jin Wu\r\nDima Petrenko\r\nHannah Cheng\r\nHannah Gregoric\r\nJasmine Jordan\r\nKeya Thota\r\nMitchell Nguyen\r\nNatalie Wu\r\nPhoebe Chou\r\nPooja Sundaram\r\nRaymere Mendiola\r\nSaida Woolf\r\nVictoria Shnaper\r\nVida Daryabary\r\nWillson Zeng\r\nYume Weissman\n\r\n—\r\n\r\nKICKSTARTER BACKERS\r\nSam Kez Rossetto\r\nGyana Roberts\r\nSebastian Vergara\r\nkrol7\r\nWalter Yang\r\nMira\r\nKyla Roberts\r\nShannon Stone\r\nHannes Winkler\r\nHae Sung Choi\r\nJason Szymkowski\r\nVida\r\nAbby Kurtz\r\nJosh Moon\r\nSam Kohl\r\nCornbeef\r\nDominic Hewitt\r\nAngel Y. W.\r\nCorrin Jin Wu\r\nClarence Avery Dy Chua\r\nscott\r\nimpeckable\r\nGustavo Lopes Mourelo Lessa\r\nKaren Keene\r\nLuxen De'Mark\r\nAfiana Shiferaw\r\nCarol & Gary Roberts\n(hi grandma/pa!)\r\nIsaiah Brown (hi mom    !)\r\nRiley\r\nGimpy Fishbones\r\nConnor Woo\r\nLinda\r\nsandra salcedo\r\nF. T. Le\r\nPhilip Boesecke\r\nJuan Santiago\r\nCameron Showalter\r\nLachlan Bassula\r\nZihwih\r\nDaniel Davoust\r\nNick Phillips\r\nAlisa Ren\r\nSpaceMamanti\r\nJack J.T.\r\nJamie Mikoly\r\nKarina Krogh\r\nKing\r\ncoolwallfall\r\nThe Tobias Family\r\nBernadette\r\nAndré Reis\r\nKonrad\r\nTemplayer\r\nVivian Navarrete\r\nMadeline Schneider\r\nRob Miles\r\nBrennan Hester\r\nDisMightyMan\r\nAceBerg42\r\nHib\r\nAllen Beiter\r\nIvan Pina Molina\r\nRafael J. Perez\r\nThe_mighty_Paolo\r\nSamlezombi\r\nJassir Noguera Family\r\nPamela\r\nMaria Gutierrez\r\nIvania\r\nTobia Gasparoni\r\nLuis Fernando García\r\nNancy Hutchins\r\nNicolas\r\nLane Clownpelli\r\nCastelani P\r\nStephanie Houser\r\nnebuleii\r\nYady\r\nispi05_kuiki\r\n\r\nPOCOSONA BACKERS\n\nV Francisco\r\n\n\nPsycho Kitty\r\n\n\nAlex (Shapeguy) Hertz\r\n\n\nDawne & Paul Camilleri\r\n\n\nORLANDO ATIQUE\r\n\n\n\r\n—\r\n\r\nFACULTY ADVISOR\r\nTom Austin\r\n\r\nSPECIAL THANKS\r\nDave Chai\r\nKevin Mannens\r\nAaron Soon\r\nChris Zollna\r\nCraig Kitzmann\r\nJosh Zinman\r\nEric Mead\r\nDaniel Davoust\r\nIan Lutz\r\nAlex Mertens\r\nJake Kirby\r\n\r\nCLOWN CONSULTANT\r\nCrackers the Clown\r\n\r\nKIKIS\r\nKikis\r\n",
+      "ru": "РЕЖИССУРА\r\nMicah Boursier\r\n\r\nПРОДЮСИРОВАНИЕ\r\nAsher Camilleri\r\n\r\nАССИСТЕНТ ПРОДЮСЕРА\r\nFrancesca Jassir\r\n\r\nОСНОВНАЯ КОМАНДА\r\nMicah Boursier\r\nAsher Camilleri\r\nFrancesca Jassir\r\nKamala Roberts\r\nMegan Keene\r\nSebastian Panozo\r\nMax Stone\r\nGiselle Yang\r\n\r\nРУКОВОДСТВО ВИЗУАЛЬНОЙ РАЗРАБОТКОЙ\r\nKamala Roberts\r\nВИЗУАЛЬНАЯ РАЗРАБОТКА\r\nОсновная команда\nХУДОЖНИКИ\r\nMegan Keene\r\nSebastian Panozo\r\nMicah Boursier\r\nGiselle Yang\r\nMax Stone\r\n\r\nРУКОВОДСТВО РАБОТОЙ НАД СЮЖЕТОМ\r\nAsher Camilleri\r\n\r\nРУКОВОДСТВО АНИМАЦИЕЙ\r\nMax Stone\r\nАНИМАТОРЫ\r\nFrancesca Jassir\r\nMicah Boursier\r\n\r\nРУКОВОДСТВО МОДЕЛИРОВАНИЕМ\r\nGiselle Yang\r\nМОДЕЛИРОВАНИЕ\r\nKamala Roberts\r\n\r\nРУКОВОДСТВО РИГГИНГОМ\r\nMax Stone\r\nРИГГИНГ\r\nGiselle Yang\r\nMicah Boursier\r\n\r\nПРОГРАММИРОВАНИЕ\r\nMicah Boursier\r\n\r\nЗВУКОВОЙ ДИЗАЙН\r\nMicah Boursier\r\nMax Stone\r\n\r\nМУЗЫКА\r\nMiguel Arada\r\nTaylor Baum\r\n\r\nОЗВУЧИВАНИЕ\r\nПоко - велосипедный гудок\r\nГрипп - Max Stone\r\nНари - Ally McClaine\r\nОджет - Micah Boursier\r\nГалч - Giselle Yang\r\nДжаз - Max Stone\r\nРыбак - Jesse O’bird\r\nДангсворт - Max Stone\r\nСкаттлсби - Joe Schwall\r\nУивилтон - Ally McClaine\r\nЧервь - Joe Schwall\r\nВдова червя - Giselle Yang\r\nПолицейский-червь - Joe Schwall\r\nЛичинка - Max Stone\r\n\r\nВЕДЕНИЕ СОЦСЕТЕЙ\r\nFrancesca Jassir\r\n\r\n—\r\n\r\nВОЛОНТЁРЫ\r\n\r\nКООРДИНАЦИЯ СОЦСЕТЕЙ\r\nNatalie Wu\r\n\r\nАНИМАТОРЫ\r\nCammy Tan\r\nDaniel Nimori\r\nReese Parungao\r\nTessa Carter\r\nZhiyi Lin\r\nNolan Pauls\r\nNico Snow\r\nJimmy Nguyen\r\nHae Sung Choi\r\n\r\nХУДОЖНИКИ ПО ФОНАМ\r\nAlyssa Anderson\r\nAni Saracen\r\nCammy Tan\r\nCorrin Jin Wu\r\nDima Petrenko\r\nHannah Cheng\r\nHannah Gregoric\r\nJasmine Jordan\r\nKeya Thota\r\nMitchell Nguyen\r\nNatalie Wu\r\nPhoebe Chou\r\nPooja Sundaram\r\nRaymere Mendiola\r\nSaida Woolf\r\nVictoria Shnaper\r\nVida Daryabary\r\nWillson Zeng\r\nYume Weissman\n\r\n—\r\n\r\nНАС ПОДДЕРЖАЛИ НА KICKSTARTER\r\nSam Kez Rossetto\r\nGyana Roberts\r\nSebastian Vergara\r\nkrol7\r\nWalter Yang\r\nMira\r\nKyla Roberts\r\nShannon Stone\r\nHannes Winkler\r\nHae Sung Choi\r\nJason Szymkowski\r\nVida\r\nAbby Kurtz\r\nJosh Moon\r\nSam Kohl\r\nCornbeef\r\nDominic Hewitt\r\nAngel Y. W.\r\nCorrin Jin Wu\r\nClarence Avery Dy Chua\r\nscott\r\nimpeckable\r\nGustavo Lopes Mourelo Lessa\r\nKaren Keene\r\nLuxen De'Mark\r\nAfiana Shiferaw\r\nCarol & Gary Roberts\n(привет, бабушка и дедушка!)\r\nIsaiah Brown (привет, мама!)\r\nRiley\r\nGimpy Fishbones\r\nConnor Woo\r\nLinda\r\nsandra salcedo\r\nF. T. Le\r\nPhilip Boesecke\r\nJuan Santiago\r\nCameron Showalter\r\nLachlan Bassula\r\nZihwih\r\nDaniel Davoust\r\nNick Phillips\r\nAlisa Ren\r\nSpaceMamanti\r\nJack J.T.\r\nJamie Mikoly\r\nKarina Krogh\r\nKing\r\ncoolwallfall\r\nThe Tobias Family\r\nBernadette\r\nAndré Reis\r\nKonrad\r\nTemplayer\r\nVivian Navarrete\r\nMadeline Schneider\r\nRob Miles\r\nBrennan Hester\r\nDisMightyMan\r\nAceBerg42\r\nHib\r\nAllen Beiter\r\nIvan Pina Molina\r\nRafael J. Perez\r\nThe_mighty_Paolo\r\nSamlezombi\r\nJassir Noguera Family\r\nPamela\r\nMaria Gutierrez\r\nIvania\r\nTobia Gasparoni\r\nLuis Fernando García\r\nNancy Hutchins\r\nNicolas\r\nLane Clownpelli\r\nCastelani P\r\nStephanie Houser\r\nnebuleii\r\nYady\r\nispi05_kuiki\r\n\r\nНАС ПОДДЕРЖАЛИ НА УРОВНЕ POCOSONA\n\nV Francisco\r\n\n\nPsycho Kitty\r\n\n\nAlex (Shapeguy) Hertz\r\n\n\nDawne & Paul Camilleri\r\n\n\nORLANDO ATIQUE\r\n\n\n\r\n—\r\n\r\nНАУЧНЫЙ РУКОВОДИТЕЛЬ\r\nTom Austin\r\n\r\nОСОБАЯ БЛАГОДАРНОСТЬ\r\nDave Chai\r\nKevin Mannens\r\nAaron Soon\r\nChris Zollna\r\nCraig Kitzmann\r\nJosh Zinman\r\nEric Mead\r\nDaniel Davoust\r\nIan Lutz\r\nAlex Mertens\r\nJake Kirby\r\n\r\nКОНСУЛЬТАНТ ПО КЛОУНАДЕ\r\nCrackers the Clown\r\n\r\nKIKIS\r\nKikis\r\n"
+    },
+    {
+      "en": "Enter text...",
+      "ru": "Введите текст..."
+    },
+    {
+      "en": "Go To Screen",
+      "ru": "Перейти к сцене"
+    },
+    {
+      "en": "Item Name - Item Description",
+      "ru": "Название предмета - описание"
+    },
+    {
+      "en": "Hello World",
+      "ru": "Привет, мир!"
+    },
+    {
+      "en": "Get All Rats",
+      "ru": "Собрать все черепа"
+    },
+    {
+      "en": "Option 4",
+      "ru": "Вариант 4"
+    },
+    {
+      "en": "Option 3",
+      "ru": "Вариант 3"
+    },
+    {
+      "en": "Debug Mode",
+      "ru": "Режим отладки"
+    },
+    {
+      "en": "Option 1",
+      "ru": "Вариант 1"
+    },
+    {
+      "en": "Item Name",
+      "ru": "Название предмета"
+    },
+    {
+      "en": "Enter item name...",
+      "ru": "Введите название предмета..."
+    },
+    {
+      "en": "Option A",
+      "ru": "Вариант А"
+    },
+    {
+      "en": "Option 2",
+      "ru": "Вариант 2"
+    },
+    {
+      "en": "Enter screen name...",
+      "ru": "Введите название сцены..."
+    },
+    {
+      "en": "Drag Amount",
+      "ru": "Инерция"
+    },
+    {
+      "en": "CLEAR SAVES",
+      "ru": "УДАЛИТЬ СОХРАНЕНИЯ"
+    },
+    {
+      "en": "Restart Demo\n",
+      "ru": "Перезапустить демоверсию\n"
+    },
+    {
+      "en": "The following is a very simple, bare-bones tech demo for Poco. This program serves only as a demonstration of the feasibility of a few simple concepts that will be necessary to construct the gameplay of the game. The concepts in question are as follows:\n\n1. <b>3D pathfinding/navigation</b> using raycasts from the cursor. Likely among the most complicated anticipated programming challenges simply involves having the computer find the shortest path from point A to point B in a complex (technically 3D) environment. Using unity's built-in NavMesh feature, this was made rather simple. Jumping and climbing slopes are included in this demo.\n\n2. <b>2D/3D hybrid rendering</b>. This demo shows how the game will be rendered, with a 3D character navigating an invisible 3D world over a visible 2D background. One challenge with mixing 2D and 3D is ensuring that the 3D character can still walk \"behind\" a 2D object in the foreground. A multi-layer system was developed to deal with it: try walking behind a wall.\nAnother challenge is ensuring that the 2D background always lines up with the unrendered 3D world, despite varying aspect ratios. Using Unity's UI scaling features, this was solved.\n\n3. <b>Importing models and animation from Maya into the engine (Unity)</b>. Having only used blender for my past games, I just wanted to see what the pipeline would be like for exporting models and animation from Maya. Here, there is only one simple character model, and one very simple animation, but it proves feasibility nonetheless.\n\nThese 3 factors were my main concern for the feasibility of this project, and this demo proves that they can be achieved rather easily.\n\n<b>How to Play:</b>\nSimply use your mouse, and click anywhere in the scene, and the character will navigate toward the point where you clicked.",
+      "ru": "Перед вами простой технический прототип Poco. Он показывает, как в игре будут работать три базовые вещи.\n\n1. <b>Поиск пути в 3D</b>. Один из самых сложных вопросов: как найти кратчайший путь из точки А в точку Б в трёхмерном мире? Мы пускаем луч из-под курсора, а путь строим с помощью NavMesh в Unity. В этой демоверсии персонаж уже умеет прыгать и взбираться по склонам.\n\n2. <b>Совмещение 2D и 3D</b>. Трёхмерный персонаж ходит по невидимой геометрии поверх рисованного фона. Чтобы он мог скрываться за объектами переднего плана, мы разделили изображение на слои. Попробуйте пройти за стеной.\nЕщё нужно, чтобы фон и невидимая геометрия совпадали при любом соотношении сторон экрана. Тут помогло масштабирование интерфейса Unity.\n\n3. <b>Импорт моделей и анимации из Maya в Unity</b>. В предыдущих играх я работал только в Blender, поэтому хотел проверить, как переносить модели и анимацию из Maya. Здесь всего одна простая модель и одна простая анимация. Для проверки этого достаточно.\n\nИменно эти три задачи вызывали у меня больше всего вопросов. Прототип показал, что все три вполне решаемы.\n\n<b>Как играть:</b>\nЩёлкните мышью в любом месте сцены, и персонаж направится туда."
+    },
+    {
+      "en": "Get Item",
+      "ru": "Получить предмет"
+    },
+    {
+      "en": "Finish Game",
+      "ru": "Завершить игру"
+    },
+    {
+      "en": "Axe",
+      "ru": "Топорик"
+    },
+    {
+      "en": "Axe - a tiny little axe, just your size",
+      "ru": "Топорик - Крохотный. Как раз тебе по руке."
+    },
+    {
+      "en": "Old Key",
+      "ru": "Старый ключ"
+    },
+    {
+      "en": "Old Key - a little old metal key",
+      "ru": "Старый ключ - Маленький старый ключ из металла."
+    },
+    {
+      "en": "Bone Key",
+      "ru": "Костяной ключ"
+    },
+    {
+      "en": "Bone Key - a stinky rotting key made of bone",
+      "ru": "Костяной ключ - Ключ из подгнившей кости. Воняет."
+    },
+    {
+      "en": "Golden Key",
+      "ru": "Золотой ключ"
+    },
+    {
+      "en": "Golden Key - an ornate key that looks important",
+      "ru": "Золотой ключ - Затейливый ключ. Видно, от чего-то важного."
+    },
+    {
+      "en": "Coin",
+      "ru": "Монета"
+    },
+    {
+      "en": "Coin - do you take clown pay?",
+      "ru": "Монета - Принимаете клоунские деньги?"
+    },
+    {
+      "en": "Worm Castings",
+      "ru": "Червячий помёт"
+    },
+    {
+      "en": "Worm Castings - a pile of worm doo doo feces",
+      "ru": "Червячий помёт - Кучка червячьих какашек."
+    },
+    {
+      "en": "Machete",
+      "ru": "Мачете"
+    },
+    {
+      "en": "Machete - a giant knife, stained with... red paint?",
+      "ru": "Мачете - Огромный нож в пятнах... красной краски?"
+    },
+    {
+      "en": "Snail Slime",
+      "ru": "Улиточная слизь"
+    },
+    {
+      "en": "Snail Slime - a sticky glob of snail slime",
+      "ru": "Улиточная слизь - Липкий комок улиточной слизи."
+    },
+    {
+      "en": "Magenta Blossom",
+      "ru": "Пурпурный цветок"
+    },
+    {
+      "en": "Magenta Blossom - a majestic magenta blossom",
+      "ru": "Пурпурный цветок - Роскошный пурпурный цветок."
+    },
+    {
+      "en": "Cyan Berries",
+      "ru": "Голубые ягоды"
+    },
+    {
+      "en": "Cyan Berries - some very pretty cyan berries",
+      "ru": "Голубые ягоды - Красивенные голубые ягоды."
+    },
+    {
+      "en": "Yellow Moss",
+      "ru": "Жёлтый мох"
+    },
+    {
+      "en": "Yellow Moss - a moist clump of yellow moss",
+      "ru": "Жёлтый мох - Сырой комок жёлтого мха."
+    },
+    {
+      "en": "Magenta Pigment",
+      "ru": "Пурпурный пигмент"
+    },
+    {
+      "en": "Magenta Pigment - a little heap of magenta powder",
+      "ru": "Пурпурный пигмент - Горстка пурпурного порошка."
+    },
+    {
+      "en": "Cyan Pigment",
+      "ru": "Голубой пигмент"
+    },
+    {
+      "en": "Cyan Pigment - a pile of wet cyan-colored pulp",
+      "ru": "Голубой пигмент - Кучка влажной голубой мякоти."
+    },
+    {
+      "en": "Yellow Pigment",
+      "ru": "Жёлтый пигмент"
+    },
+    {
+      "en": "Yellow Pigment - a pile of yellow-colored powder",
+      "ru": "Жёлтый пигмент - Горстка жёлтого порошка."
+    },
+    {
+      "en": "Red Paint",
+      "ru": "Красная краска"
+    },
+    {
+      "en": "Red Paint - a tube of red paint",
+      "ru": "Красная краска - Тюбик красной краски."
+    },
+    {
+      "en": "Green Paint",
+      "ru": "Зелёная краска"
+    },
+    {
+      "en": "Green Paint - a tube of green paint",
+      "ru": "Зелёная краска - Тюбик зелёной краски."
+    },
+    {
+      "en": "Blue Paint",
+      "ru": "Синяя краска"
+    },
+    {
+      "en": "Blue Paint - a tube of blue paint",
+      "ru": "Синяя краска - Тюбик синей краски."
+    },
+    {
+      "en": "Potato Battery",
+      "ru": "Картофельная батарейка"
+    },
+    {
+      "en": "Potato Battery - somehow, it generates electricity",
+      "ru": "Картофельная батарейка - Каким-то чудом даёт ток."
+    },
+    {
+      "en": "Maggot",
+      "ru": "Личинка"
+    },
+    {
+      "en": "Maggot - an unsuspecting little maggot",
+      "ru": "Личинка - Кроха, которая ни о чём не подозревает."
+    },
+    {
+      "en": "Fish",
+      "ru": "Рыба"
+    },
+    {
+      "en": "Fish - a big ugly fish from the depths",
+      "ru": "Рыба - Здоровенная уродина из глубин."
+    },
+    {
+      "en": "Carrot",
+      "ru": "Морковь"
+    },
+    {
+      "en": "Carrot - that's one big carrot",
+      "ru": "Морковь - Вот это морковища!"
+    },
+    {
+      "en": "Bucket",
+      "ru": "Ведро"
+    },
+    {
+      "en": "Bucket - an empty bucket that yearns for a liquid",
+      "ru": "Ведро - Пустое. Так и просится, чтобы в него что-нибудь налили."
+    },
+    {
+      "en": "Beetle Milk",
+      "ru": "Жучье молоко"
+    },
+    {
+      "en": "Beetle Milk - nasty.",
+      "ru": "Жучье молоко - Гадость."
+    },
+    {
+      "en": "Frying Pan",
+      "ru": "Сковородка"
+    },
+    {
+      "en": "Frying Pan - a greasy old frying pan",
+      "ru": "Сковородка - Старая сковородка, вся в жире."
+    },
+    {
+      "en": "Match",
+      "ru": "Спичка"
+    },
+    {
+      "en": "Match - a trampled-over match that may still work",
+      "ru": "Спичка - Затоптанная. Может, ещё загорится."
+    },
+    {
+      "en": "Coal",
+      "ru": "Уголь"
+    },
+    {
+      "en": "Coal - a handful of crumbly coal bits",
+      "ru": "Уголь - Горстка крошащихся угольков."
+    },
+    {
+      "en": "Cooked Fish Dinner",
+      "ru": "Жареная рыба"
+    },
+    {
+      "en": "Cooked Fish Dinner - compliments to the chef!",
+      "ru": "Жареная рыба - Хвала повару!"
+    },
+    {
+      "en": "Spoon",
+      "ru": "Ложка"
+    },
+    {
+      "en": "Spoon - a comically large spoon",
+      "ru": "Ложка - До смешного большая."
+    },
+    {
+      "en": "Rope",
+      "ru": "Верёвка"
+    },
+    {
+      "en": "Rope - a length of heavy-duty rope",
+      "ru": "Верёвка - Кусок прочной верёвки."
+    },
+    {
+      "en": "Feather",
+      "ru": "Перо"
+    },
+    {
+      "en": "Feather - a big bristly feather from a big mean bird",
+      "ru": "Перо - Здоровенное жёсткое перо здоровенной злой птицы."
+    },
+    {
+      "en": "Basic Button",
+      "ru": "Простая пуговица"
+    },
+    {
+      "en": "Basic Button - nothing really cute or fancy",
+      "ru": "Простая пуговица - Ни особой прелести, ни изыска."
+    },
+    {
+      "en": "Cute Button",
+      "ru": "Милая пуговица"
+    },
+    {
+      "en": "Cute Button - it looks like candy",
+      "ru": "Милая пуговица - Похожа на конфетку."
+    },
+    {
+      "en": "Fancy Button",
+      "ru": "Нарядная пуговица"
+    },
+    {
+      "en": "Fancy Button - imagine the coat this guy came off of",
+      "ru": "Нарядная пуговица - Представь, с какого пальто она оторвалась."
+    },
+    {
+      "en": "Cymbal Button",
+      "ru": "Пуговица из тарелки"
+    },
+    {
+      "en": "Cymbal Button - a cymbal-turned-button",
+      "ru": "Пуговица из тарелки - Ударная тарелка, переделанная в пуговицу."
+    },
+    {
+      "en": "Cog",
+      "ru": "Шестерёнка"
+    },
+    {
+      "en": "Cog - very steampunk",
+      "ru": "Шестерёнка - Прямо стимпанк."
+    },
+    {
+      "en": "Valve Handle",
+      "ru": "Вентиль"
+    },
+    {
+      "en": "Valve Handle - a spinny valve handle",
+      "ru": "Вентиль - Так и тянет покрутить."
+    },
+    {
+      "en": "Pacifier",
+      "ru": "Пустышка"
+    },
+    {
+      "en": "Pacifier - a pacifier for a very, very tiny baby",
+      "ru": "Пустышка - Для очень-очень маленького малыша."
+    },
+    {
+      "en": "Bug Steak",
+      "ru": "Стейк из жука"
+    },
+    {
+      "en": "Bug Steak - a fine cut from inside the exoskeleton",
+      "ru": "Стейк из жука - Отборный кусок мяса из-под панциря."
+    },
+    {
+      "en": "Dog Treat",
+      "ru": "Собачье лакомство"
+    },
+    {
+      "en": "Dog Treat - tastes like dirt",
+      "ru": "Собачье лакомство - На вкус как земля."
+    },
+    {
+      "en": "Rocket Thruster",
+      "ru": "Двигатель ракеты"
+    },
+    {
+      "en": "Rocket Thruster - the bottom third of a rocket",
+      "ru": "Двигатель ракеты - Нижняя треть ракеты."
+    },
+    {
+      "en": "Rocket Hull",
+      "ru": "Корпус ракеты"
+    },
+    {
+      "en": "Rocket Hull - the middle third of a rocket",
+      "ru": "Корпус ракеты - Средняя треть ракеты."
+    },
+    {
+      "en": "Rocket Tip",
+      "ru": "Нос ракеты"
+    },
+    {
+      "en": "Rocket Tip - the top third of a rocket",
+      "ru": "Нос ракеты - Верхняя треть ракеты."
+    },
+    {
+      "en": "Point and click with the mouse to walk around.",
+      "ru": "Щёлкните по нужному месту, чтобы туда пойти."
+    },
+    {
+      "en": "When the glove cursor changes, you can click to interact.",
+      "ru": "Курсор меняется над тем, с чем можно взаимодействовать. Щёлкните, чтобы попробовать."
+    },
+    {
+      "en": "Click on Poco, Right Click, or press Esc to view Inventory/Map/Settings.",
+      "ru": "Щёлкните по Поко, нажмите правую кнопку мыши или Esc, чтобы открыть меню. Там находятся инвентарь, карта и настройки."
+    },
+    {
+      "en": "Add a pigment...",
+      "ru": "Добавить пигмент..."
+    },
+    {
+      "en": "Add some fuel...",
+      "ru": "Подбросить топлива..."
+    },
+    {
+      "en": "Attach an item...",
+      "ru": "Прикрепить предмет..."
+    },
+    {
+      "en": "Bridge the gap...",
+      "ru": "Перекинуть что-нибудь через провал..."
+    },
+    {
+      "en": "Choose a binder...",
+      "ru": "Выбрать связующее..."
+    },
+    {
+      "en": "Choose an item to mash...",
+      "ru": "Выбрать, что растолочь..."
+    },
+    {
+      "en": "Clear the path...",
+      "ru": "Расчистить путь..."
+    },
+    {
+      "en": "Get the foot to move...",
+      "ru": "Сдвинуть ногу..."
+    },
+    {
+      "en": "Light the fire...",
+      "ru": "Разжечь огонь..."
+    },
+    {
+      "en": "Needs fertilizer...",
+      "ru": "Нужно удобрение..."
+    },
+    {
+      "en": "Needs something to row with...",
+      "ru": "Нужно чем-то грести..."
+    },
+    {
+      "en": "Offer an item...",
+      "ru": "Предложить предмет..."
+    },
+    {
+      "en": "Place a button...",
+      "ru": "Вставить пуговицу..."
+    },
+    {
+      "en": "Place an item atop the grill...",
+      "ru": "Положить что-нибудь на решётку..."
+    },
+    {
+      "en": "Plug something in...",
+      "ru": "Подключить что-нибудь..."
+    },
+    {
+      "en": "Put something in the slot...",
+      "ru": "Что-нибудь вставить в прорезь..."
+    },
+    {
+      "en": "The door needs a key...",
+      "ru": "Для двери нужен ключ..."
+    },
+    {
+      "en": "Use an item on the beetle...",
+      "ru": "Применить предмет к жуку..."
+    },
+    {
+      "en": "Fisherman",
+      "ru": "Рыбак"
+    },
+    {
+      "en": "Dungsworth",
+      "ru": "Дангсворт"
+    },
+    {
+      "en": "Scuttlesby",
+      "ru": "Скаттлсби"
+    },
+    {
+      "en": "Weevilton",
+      "ru": "Уивилтон"
+    },
+    {
+      "en": "Worm",
+      "ru": "Червь"
+    },
+    {
+      "en": "Worm Widow",
+      "ru": "Вдова червя"
+    },
+    {
+      "en": "Worm Cop",
+      "ru": "Полицейский-червь"
+    },
+    {
+      "en": "John",
+      "ru": "Джон"
+    },
+    {
+      "en": "NPC",
+      "ru": "Персонаж"
+    }
+  ]
+}
